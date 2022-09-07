@@ -1,0 +1,9 @@
+**ADD**:MethodDeclaration (LINE:+80),1
+**ADD**:Block (LINE:+81),1
+**ADD**:VariableDeclarationStatement (LINE:+82),1
+**ADD**:IfStatement (LINE:+83),1
+**ADD**:Block (LINE:+83),1
+**ADD**:VariableDeclarationStatement (LINE:+84),1
+**ADD**:ExpressionStatement (LINE:+85),1
+**ADD**:ExpressionStatement (LINE:+86),1
+**ADD**:ReturnStatement (LINE:+88),1

@@ -1,0 +1,10 @@
+**ADD**:ImportDeclaration (LINE:+23),1
+**ADD**:ImportDeclaration (LINE:+24),1
+**ADD**:ImportDeclaration (LINE:+25),1
+**ADD**:ImportDeclaration (LINE:+26),1
+**ADD**:ImportDeclaration (LINE:+27),1
+**DEL**:ImportDeclaration (LINE:-37),1
+**UPD**:MethodDeclaration (LINE:-84) => MethodDeclaration (LINE:+89),1
+**UPD**:MethodDeclaration (LINE:-93) => MethodDeclaration (LINE:+99),1
+**UPD**:ExpressionStatement (LINE:-125) => ExpressionStatement (LINE:+133),1
+**ADD**:VariableDeclarationStatement (LINE:+132),1

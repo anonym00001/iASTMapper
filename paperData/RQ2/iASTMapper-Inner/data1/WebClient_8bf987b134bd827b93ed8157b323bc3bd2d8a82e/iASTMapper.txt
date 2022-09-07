@@ -1,0 +1,5 @@
+**DEL**:ImportDeclaration (LINE:-56),0
+**DEL**:ImportDeclaration (LINE:-57),1
+**ADD**:ImportDeclaration (LINE:+56),0
+**ADD**:ImportDeclaration (LINE:+57),1
+**UPD**:FieldDeclaration (LINE:-75) => FieldDeclaration (LINE:+75),1

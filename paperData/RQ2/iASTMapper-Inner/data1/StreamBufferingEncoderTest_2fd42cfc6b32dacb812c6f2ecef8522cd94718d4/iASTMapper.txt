@@ -1,0 +1,17 @@
+**ADD**:TryStatement (LINE:+490),0
+**ADD**:Block (LINE:+490),0
+**MOV**:ExpressionStatement (LINE:-490) => ExpressionStatement (LINE:+491),1
+**DEL**:TryStatement (LINE:-492),0
+**DEL**:Block (LINE:-492),0
+**MOV**:ExpressionStatement (LINE:-493) => ExpressionStatement (LINE:+493),0
+**MOV**:ReturnStatement (LINE:-494) => ReturnStatement (LINE:+494),0
+**MOV**:CatchClause (LINE:-495) => CatchClause (LINE:+495),0
+**DEL**:Block (LINE:-495),0
+**ADD**:Block (LINE:+495),0
+**MOV**:ThrowStatement (LINE:-496) => ThrowStatement (LINE:+496),0
+**ADD**:TryStatement (LINE:+501),1
+**ADD**:Block (LINE:+501),1
+**MOV**:ExpressionStatement (LINE:-501) => ExpressionStatement (LINE:+502),1
+**ADD**:CatchClause (LINE:+505),1
+**ADD**:Block (LINE:+505),1
+**ADD**:ThrowStatement (LINE:+506),1

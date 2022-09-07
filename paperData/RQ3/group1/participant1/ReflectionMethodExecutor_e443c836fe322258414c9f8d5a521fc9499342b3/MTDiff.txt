@@ -1,0 +1,10 @@
+**ADD**:ImportDeclaration (LINE:+23),1
+**MOV**:Block (LINE:-33) => Block (LINE:+44),0
+**M&U**:ExpressionStatement (LINE:-34) => ExpressionStatement (LINE:+35),1
+**ADD**:Block (LINE:+34),1
+**M&U**:ExpressionStatement (LINE:-35) => ExpressionStatement (LINE:+36),1
+**MOV**:Block (LINE:-40) => Block (LINE:+41),1
+**ADD**:Block (LINE:+40),1
+**ADD**:TryStatement (LINE:+41),1
+**ADD**:CatchClause (LINE:+44),1
+**ADD**:ThrowStatement (LINE:+45),1

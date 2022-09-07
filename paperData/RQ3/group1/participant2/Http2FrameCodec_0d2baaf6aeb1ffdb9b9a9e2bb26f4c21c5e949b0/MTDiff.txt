@@ -1,0 +1,9 @@
+**UPD**:MethodDeclaration (LINE:-59) => MethodDeclaration (LINE:+68),0
+**ADD**:MethodDeclaration (LINE:+59),1
+**ADD**:Block (LINE:+59),1
+**UPD**:ConstructorInvocation (LINE:-60) => ConstructorInvocation (LINE:+69),1
+**ADD**:ConstructorInvocation (LINE:+60),1
+**UPD**:MethodDeclaration (LINE:-64) => MethodDeclaration (LINE:+73),1
+**UPD**:ExpressionStatement (LINE:-66) => ExpressionStatement (LINE:+75),1
+**UPD**:VariableDeclarationStatement (LINE:-68) => VariableDeclarationStatement (LINE:+77),1
+**ADD**:VariableDeclarationStatement (LINE:+78),1

@@ -1,0 +1,5 @@
+**ADD**:TryStatement (LINE:+310),1
+**ADD**:Block (LINE:+310),1
+**MOV**:ExpressionStatement (LINE:-313) => ExpressionStatement (LINE:+313),1
+**ADD**:CatchClause (LINE:+314),1
+**ADD**:Block (LINE:+314),1

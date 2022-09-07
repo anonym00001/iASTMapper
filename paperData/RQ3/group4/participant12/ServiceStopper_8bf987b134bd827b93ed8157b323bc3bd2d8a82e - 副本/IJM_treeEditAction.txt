@@ -1,0 +1,11 @@
+5
+UPDATE	[type: ImportDeclaration] (line: -23) => [type: ImportDeclaration] (line: +23)	SRC: import org.apache.commons.logging.Log; => DST: import org.slf4j.Logger;
+
+UPDATE	[type: ImportDeclaration] (line: -24) => [type: ImportDeclaration] (line: +24)	SRC: import org.apache.commons.logging.LogFactory; => DST: import org.slf4j.LoggerFactory;
+
+UPDATE	[type: SimpleType] (line: -95) => [type: SimpleType] (line: +95)	SRC: Log => DST: Logger
+
+UPDATE	[type: MethodInvocation] (line: -95) => [type: MethodInvocation] (line: +95)	SRC: LogFactory.getLog(service.getClass()) => DST: LoggerFactory.getLogger(service.getClass())
+
+UPDATE	[type: SimpleName] (line: -95) => [type: SimpleName] (line: +95)	SRC: LogFactory => DST: LoggerFactory
+

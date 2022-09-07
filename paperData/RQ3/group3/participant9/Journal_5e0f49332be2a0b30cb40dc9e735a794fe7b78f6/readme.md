@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/apache/activemq/commit/5e0f49332be2a0b30cb40dc9e735a794fe7b78f6)
+Path : activemq/activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/disk/journal/Journal.java

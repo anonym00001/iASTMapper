@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/apache/activemq/commit/3bf0245e763d74b5489ba0f872b09303fef8c7d7)
+Path : activemq/activemq-core/src/main/java/org/apache/activemq/store/jdbc/adapter/DefaultJDBCAdapter.java

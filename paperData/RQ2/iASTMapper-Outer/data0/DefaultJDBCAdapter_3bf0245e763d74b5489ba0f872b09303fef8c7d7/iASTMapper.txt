@@ -1,0 +1,6 @@
+**ADD**:ExpressionStatement (LINE:+373),1
+**ADD**:ExpressionStatement (LINE:+643),1
+**UPD**:ExpressionStatement (LINE:-643) => ExpressionStatement (LINE:+645),1
+**ADD**:CatchClause (LINE:+659),1
+**ADD**:Block (LINE:+659),1
+**ADD**:ExpressionStatement (LINE:+660),1

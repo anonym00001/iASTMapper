@@ -1,0 +1,30 @@
+**ADD**:ImportDeclaration (LINE:+37),1
+**UPD**:VariableDeclarationStatement (LINE:-163) => VariableDeclarationStatement (LINE:+164),1
+**UPD**:MethodDeclaration (LINE:-195) => MethodDeclaration (LINE:+197),1
+**DEL**:Block (LINE:-195),0
+**ADD**:Block (LINE:+197),0
+**ADD**:VariableDeclarationStatement (LINE:+198),0
+**MOV**:VariableDeclarationStatement (LINE:-196) => VariableDeclarationStatement (LINE:+199),0
+**M&U**:IfStatement (LINE:-197) => IfStatement (LINE:+200),0
+**DEL**:Block (LINE:-197),1
+**ADD**:Block (LINE:+200),0
+**ADD**:ExpressionStatement (LINE:+201),1
+**MOV**:VariableDeclarationStatement (LINE:-198) => VariableDeclarationStatement (LINE:+202),0
+**MOV**:VariableDeclarationStatement (LINE:-199) => VariableDeclarationStatement (LINE:+203),0
+**M&U**:ExpressionStatement (LINE:-200) => ExpressionStatement (LINE:+204),0
+**ADD**:Block (LINE:+210),1
+**MOV**:ReturnStatement (LINE:-202) => ReturnStatement (LINE:+214),0
+**UPD**:MethodDeclaration (LINE:-215) => MethodDeclaration (LINE:+228),1
+**DEL**:Block (LINE:-215),0
+**DEL**:ReturnStatement (LINE:-216),0
+**ADD**:Block (LINE:+228),0
+**ADD**:VariableDeclarationStatement (LINE:+229),1
+**ADD**:VariableDeclarationStatement (LINE:+230),1
+**ADD**:ReturnStatement (LINE:+231),0
+**DEL**:Block (LINE:-295),0
+**ADD**:Block (LINE:+310),0
+**MOV**:ReturnStatement (LINE:-296) => ReturnStatement (LINE:+311),0
+**DEL**:Block (LINE:-298),1
+**ADD**:Block (LINE:+313),0
+**M&U**:VariableDeclarationStatement (LINE:-299) => VariableDeclarationStatement (LINE:+314),0
+**MOV**:ReturnStatement (LINE:-300) => ReturnStatement (LINE:+315),0

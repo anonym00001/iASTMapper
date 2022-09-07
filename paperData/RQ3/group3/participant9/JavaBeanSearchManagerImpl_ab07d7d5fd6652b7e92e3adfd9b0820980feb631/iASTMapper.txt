@@ -1,0 +1,5 @@
+**UPD**:ImportDeclaration (LINE:-18) => ImportDeclaration (LINE:+18),1
+**ADD**:ImportDeclaration (LINE:+19),1
+**UPD**:FieldDeclaration (LINE:-25) => FieldDeclaration (LINE:+26),1
+**UPD**:MethodDeclaration (LINE:-46) => MethodDeclaration (LINE:+47),1
+**UPD**:ExpressionStatement (LINE:-49) => ExpressionStatement (LINE:+50),1

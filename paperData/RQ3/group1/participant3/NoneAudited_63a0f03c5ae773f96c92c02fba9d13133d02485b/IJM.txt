@@ -1,0 +1,11 @@
+**DEL**:ImportDeclaration (LINE:-26),1
+**DEL**:ImportDeclaration (LINE:-27),1
+**ADD**:ImportDeclaration (LINE:+34),1
+**UPD**:VariableDeclarationStatement (LINE:-47) => VariableDeclarationStatement (LINE:+47),1
+**DEL**:MethodDeclaration (LINE:-52),1
+**DEL**:Block (LINE:-52),1
+**DEL**:VariableDeclarationStatement (LINE:-53),1
+**DEL**:WhileStatement (LINE:-54),1
+**DEL**:Block (LINE:-54),1
+**DEL**:ExpressionStatement (LINE:-55),1
+**DEL**:ReturnStatement (LINE:-58),1

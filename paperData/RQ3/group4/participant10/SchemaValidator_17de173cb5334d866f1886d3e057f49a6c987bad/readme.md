@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/17de173cb5334d866f1886d3e057f49a6c987bad)
+Path : hibernate-orm/hibernate-core/src/main/java/org/hibernate/tool/schema/spi/SchemaValidator.java

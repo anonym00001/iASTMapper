@@ -1,0 +1,13 @@
+**ADD**:FieldDeclaration (LINE:+40),1
+**UPD**:MethodDeclaration (LINE:-44) => MethodDeclaration (LINE:+45),1
+**M&U**:ExpressionStatement (LINE:-46) => ExpressionStatement (LINE:+100),0
+**ADD**:ExpressionStatement (LINE:+47),0
+**ADD**:ExpressionStatement (LINE:+48),1
+**UPD**:IfStatement (LINE:-94) => IfStatement (LINE:+96),1
+**MOV**:Block (LINE:-94) => Block (LINE:+103),0
+**ADD**:Block (LINE:+96),0
+**ADD**:IfStatement (LINE:+97),1
+**ADD**:Block (LINE:+97),1
+**ADD**:IfStatement (LINE:+103),1
+**M&U**:ReturnStatement (LINE:-111) => ReturnStatement (LINE:+102),0
+**ADD**:ReturnStatement (LINE:+121),0

@@ -1,0 +1,6 @@
+**UPD**:MethodDeclaration (LINE:-63) => MethodDeclaration (LINE:+63),0
+**UPD**:VariableDeclarationStatement (LINE:-67) => VariableDeclarationStatement (LINE:+66),1
+**DEL**:ExpressionStatement (LINE:-71),1
+**UPD**:ExpressionStatement (LINE:-72) => ExpressionStatement (LINE:+70),1
+**UPD**:IfStatement (LINE:-78) => IfStatement (LINE:+76),1
+**UPD**:ExpressionStatement (LINE:-79) => ExpressionStatement (LINE:+77),1

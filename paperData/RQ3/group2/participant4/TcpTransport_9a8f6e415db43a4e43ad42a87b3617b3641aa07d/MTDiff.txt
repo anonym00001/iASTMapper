@@ -1,0 +1,10 @@
+**DEL**:ImportDeclaration (LINE:-23),1
+**DEL**:ImportDeclaration (LINE:-24),1
+**DEL**:ImportDeclaration (LINE:-25),1
+**DEL**:ImportDeclaration (LINE:-26),1
+**DEL**:ImportDeclaration (LINE:-27),1
+**DEL**:ImportDeclaration (LINE:-28),1
+**DEL**:ImportDeclaration (LINE:-29),1
+**UPD**:ImportDeclaration (LINE:-30) => ImportDeclaration (LINE:+20),0
+**UPD**:ImportDeclaration (LINE:-42) => ImportDeclaration (LINE:+36),0
+**UPD**:FieldDeclaration (LINE:-102) => FieldDeclaration (LINE:+94),1

@@ -1,0 +1,5 @@
+**ADD**:VariableDeclarationStatement (LINE:+829),1
+**M&U**:ExpressionStatement (LINE:-829) => ExpressionStatement (LINE:+832),1
+**ADD**:ExpressionStatement (LINE:+830),1
+**ADD**:IfStatement (LINE:+831),1
+**ADD**:Block (LINE:+831),1

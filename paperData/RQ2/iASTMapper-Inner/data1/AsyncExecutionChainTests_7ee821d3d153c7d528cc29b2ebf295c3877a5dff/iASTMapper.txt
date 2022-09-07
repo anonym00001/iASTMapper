@@ -1,0 +1,22 @@
+**DEL**:TryStatement (LINE:-121),0
+**DEL**:Block (LINE:-121),0
+**ADD**:TryStatement (LINE:+121),1
+**ADD**:Block (LINE:+121),0
+**MOV**:ExpressionStatement (LINE:-122) => ExpressionStatement (LINE:+122),0
+**MOV**:ExpressionStatement (LINE:-123) => ExpressionStatement (LINE:+123),0
+**MOV**:CatchClause (LINE:-125) => CatchClause (LINE:+125),0
+**DEL**:Block (LINE:-125),0
+**ADD**:Block (LINE:+125),0
+**M&U**:ExpressionStatement (LINE:-126) => ExpressionStatement (LINE:+126),0
+**DEL**:TryStatement (LINE:-169),0
+**DEL**:Block (LINE:-169),0
+**ADD**:TryStatement (LINE:+169),0
+**ADD**:Block (LINE:+169),0
+**MOV**:ExpressionStatement (LINE:-170) => ExpressionStatement (LINE:+170),0
+**MOV**:ExpressionStatement (LINE:-171) => ExpressionStatement (LINE:+171),0
+**MOV**:CatchClause (LINE:-173) => CatchClause (LINE:+173),0
+**DEL**:Block (LINE:-173),0
+**ADD**:Block (LINE:+173),0
+**M&U**:ExpressionStatement (LINE:-174) => ExpressionStatement (LINE:+174),0
+**ADD**:MethodDeclaration (LINE:+191),1
+**ADD**:Block (LINE:+191),1

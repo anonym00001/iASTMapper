@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/ad0aa213bc860520842f7c61e0de9223e04a2bef)
+Path : hibernate-orm/hibernate-core/src/main/java/org/hibernate/resource/transaction/backend/jta/internal/JtaTransactionCoordinatorImpl.java

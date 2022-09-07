@@ -1,0 +1,12 @@
+**DEL**:ImportDeclaration (LINE:-21),1
+**ADD**:ImportDeclaration (LINE:+21),1
+**DEL**:Block (LINE:-133),0
+**ADD**:Block (LINE:+133),0
+**MOV**:ReturnStatement (LINE:-134) => ReturnStatement (LINE:+134),0
+**DEL**:Block (LINE:-135),0
+**ADD**:Block (LINE:+135),0
+**MOV**:ReturnStatement (LINE:-136) => ReturnStatement (LINE:+136),0
+**DEL**:Block (LINE:-137),0
+**DEL**:ReturnStatement (LINE:-138),0
+**ADD**:Block (LINE:+137),0
+**ADD**:ReturnStatement (LINE:+138),0

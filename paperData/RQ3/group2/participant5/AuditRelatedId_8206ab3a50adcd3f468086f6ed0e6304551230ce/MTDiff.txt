@@ -1,0 +1,12 @@
+**UPD**:ImportDeclaration (LINE:-9) => ImportDeclaration (LINE:+10),1
+**ADD**:ImportDeclaration (LINE:+9),1
+**UPD**:MethodDeclaration (LINE:-21) => MethodDeclaration (LINE:+24),1
+**ADD**:FieldDeclaration (LINE:+21),1
+**ADD**:ExpressionStatement (LINE:+25),1
+**UPD**:MethodDeclaration (LINE:-28) => MethodDeclaration (LINE:+45),0
+**UPD**:ReturnStatement (LINE:-29) => ReturnStatement (LINE:+46),0
+**UPD**:MethodDeclaration (LINE:-35) => MethodDeclaration (LINE:+55),0
+**ADD**:MethodDeclaration (LINE:+35),0
+**ADD**:Block (LINE:+35),0
+**UPD**:ReturnStatement (LINE:-36) => ReturnStatement (LINE:+56),1
+**ADD**:ReturnStatement (LINE:+36),0

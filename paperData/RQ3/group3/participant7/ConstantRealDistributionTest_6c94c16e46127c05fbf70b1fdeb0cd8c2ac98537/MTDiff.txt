@@ -1,0 +1,10 @@
+**UPD**:MethodDeclaration (LINE:-85) => MethodDeclaration (LINE:+94),0
+**ADD**:MethodDeclaration (LINE:+85),1
+**MOV**:Block (LINE:-86) => Block (LINE:+89),0
+**MOV**:VariableDeclarationStatement (LINE:-87) => VariableDeclarationStatement (LINE:+97),0
+**ADD**:Block (LINE:+87),0
+**MOV**:ForStatement (LINE:-88) => ForStatement (LINE:+98),0
+**ADD**:VariableDeclarationStatement (LINE:+88),1
+**ADD**:ForStatement (LINE:+89),0
+**ADD**:ExpressionStatement (LINE:+90),0
+**ADD**:Block (LINE:+96),1

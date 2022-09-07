@@ -1,0 +1,16 @@
+**ADD**:ImportDeclaration (LINE:+22),1
+**ADD**:ImportDeclaration (LINE:+24),1
+**ADD**:ImportDeclaration (LINE:+25),1
+**UPD**:ExpressionStatement (LINE:-62) => ExpressionStatement (LINE:+65),1
+**UPD**:ExpressionStatement (LINE:-63) => ExpressionStatement (LINE:+66),1
+**UPD**:ExpressionStatement (LINE:-64) => ExpressionStatement (LINE:+67),1
+**UPD**:ExpressionStatement (LINE:-66) => ExpressionStatement (LINE:+69),1
+**UPD**:VariableDeclarationStatement (LINE:-67) => VariableDeclarationStatement (LINE:+70),1
+**UPD**:ExpressionStatement (LINE:-68) => ExpressionStatement (LINE:+71),1
+**E&U**:ExpressionStatement (LINE:-99) => ExpressionStatement (LINE:+77),0
+**EXC**:ExpressionStatement (LINE:-104) => ExpressionStatement (LINE:+103),0
+**UPD**:ExpressionStatement (LINE:-105) => ExpressionStatement (LINE:+108),0
+**E&U**:ExpressionStatement (LINE:-109) => ExpressionStatement (LINE:+109),0
+**UPD**:ExpressionStatement (LINE:-110) => ExpressionStatement (LINE:+113),0
+**E&U**:ExpressionStatement (LINE:-117) => ExpressionStatement (LINE:+114),1
+**E&U**:ExpressionStatement (LINE:-123) => ExpressionStatement (LINE:+121),1

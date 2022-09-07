@@ -1,0 +1,19 @@
+**UPD**:MethodDeclaration (LINE:-63) => MethodDeclaration (LINE:+63),0
+**DEL**:VariableDeclarationStatement (LINE:-67),0
+**ADD**:VariableDeclarationStatement (LINE:+66),0
+**DEL**:Block (LINE:-69),0
+**ADD**:Block (LINE:+68),0
+**MOV**:ExpressionStatement (LINE:-70) => ExpressionStatement (LINE:+69),0
+**M&U**:ExpressionStatement (LINE:-71) => ExpressionStatement (LINE:+70),1
+**DEL**:ExpressionStatement (LINE:-72),1
+**MOV**:ExpressionStatement (LINE:-73) => ExpressionStatement (LINE:+71),0
+**MOV**:ExpressionStatement (LINE:-74) => ExpressionStatement (LINE:+72),0
+**DEL**:Block (LINE:-77),0
+**DEL**:IfStatement (LINE:-78),0
+**DEL**:Block (LINE:-78),0
+**DEL**:ExpressionStatement (LINE:-79),0
+**ADD**:Block (LINE:+75),0
+**ADD**:IfStatement (LINE:+76),1
+**ADD**:Block (LINE:+76),0
+**ADD**:ExpressionStatement (LINE:+77),0
+**MOV**:IfStatement (LINE:-81) => IfStatement (LINE:+79),0

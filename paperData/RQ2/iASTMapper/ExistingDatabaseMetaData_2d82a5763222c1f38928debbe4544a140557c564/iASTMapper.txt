@@ -1,0 +1,6 @@
+**DEL**:TypeDeclaration (LINE:-35),1
+**ADD**:TypeDeclaration (LINE:+35),1
+**DEL**:MethodDeclaration (LINE:-36),1
+**DEL**:MethodDeclaration (LINE:-37),1
+**ADD**:MethodDeclaration (LINE:+43),1
+**ADD**:MethodDeclaration (LINE:+52),1

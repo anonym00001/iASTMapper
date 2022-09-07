@@ -1,0 +1,5 @@
+**MOV**:Block (LINE:-43) => Block (LINE:+44),0
+**ADD**:Block (LINE:+43),0
+**MOV**:ReturnStatement (LINE:-44) => ReturnStatement (LINE:+50),1
+**ADD**:IfStatement (LINE:+44),1
+**ADD**:ThrowStatement (LINE:+45),1

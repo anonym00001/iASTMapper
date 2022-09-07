@@ -1,0 +1,22 @@
+**UPD**:ExpressionStatement (LINE:-373) => ExpressionStatement (LINE:+376),0
+**ADD**:ExpressionStatement (LINE:+373),1
+**M&U**:ExpressionStatement (LINE:-374) => ExpressionStatement (LINE:+393),0
+**ADD**:ExpressionStatement (LINE:+374),0
+**M&U**:ExpressionStatement (LINE:-375) => ExpressionStatement (LINE:+392),0
+**ADD**:ExpressionStatement (LINE:+375),1
+**MOV**:Block (LINE:-390) => Block (LINE:+641),0
+**M&U**:ExpressionStatement (LINE:-391) => ExpressionStatement (LINE:+394),0
+**ADD**:Block (LINE:+391),0
+**UPD**:ExpressionStatement (LINE:-392) => ExpressionStatement (LINE:+643),0
+**UPD**:ExpressionStatement (LINE:-393) => ExpressionStatement (LINE:+644),1
+**MOV**:Block (LINE:-640) => Block (LINE:+659),0
+**MOV**:ExpressionStatement (LINE:-641) => ExpressionStatement (LINE:+642),0
+**M&U**:ExpressionStatement (LINE:-642) => ExpressionStatement (LINE:+645),0
+**M&U**:ExpressionStatement (LINE:-643) => ExpressionStatement (LINE:+646),0
+**UPD**:ExpressionStatement (LINE:-644) => ExpressionStatement (LINE:+660),1
+**MOV**:VariableDeclarationStatement (LINE:-645) => VariableDeclarationStatement (LINE:+647),0
+**MOV**:IfStatement (LINE:-646) => IfStatement (LINE:+648),0
+**UPD**:ExpressionStatement (LINE:-658) => ExpressionStatement (LINE:+663),1
+**UPD**:ExpressionStatement (LINE:-659) => ExpressionStatement (LINE:+664),1
+**ADD**:CatchClause (LINE:+659),1
+**E&U**:ExpressionStatement (LINE:-660) => ExpressionStatement (LINE:+662),0

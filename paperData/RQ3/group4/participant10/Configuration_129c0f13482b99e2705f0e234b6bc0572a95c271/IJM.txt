@@ -1,0 +1,8 @@
+**MOV**:ExpressionStatement (LINE:-1713) => ExpressionStatement (LINE:+1715),0
+**ADD**:Block (LINE:+1714),1
+**MOV**:ExpressionStatement (LINE:-3068) => ExpressionStatement (LINE:+3072),1
+**ADD**:Block (LINE:+3071),1
+**MOV**:ExpressionStatement (LINE:-3074) => ExpressionStatement (LINE:+3080),1
+**ADD**:Block (LINE:+3079),1
+**MOV**:ExpressionStatement (LINE:-3093) => ExpressionStatement (LINE:+3101),1
+**ADD**:Block (LINE:+3100),1

@@ -1,0 +1,11 @@
+5
+UPDATE	[type: QualifiedName] (line: -23) => [type: QualifiedName] (line: +23)	SRC: org.apache.commons.logging.Log => DST: org.slf4j.Logger
+
+UPDATE	[type: QualifiedName] (line: -24) => [type: QualifiedName] (line: +24)	SRC: org.apache.commons.logging.LogFactory => DST: org.slf4j.LoggerFactory
+
+UPDATE	[type: SimpleName] (line: -95) => [type: SimpleName] (line: +95)	SRC: Log => DST: Logger
+
+UPDATE	[type: SimpleName] (line: -95) => [type: SimpleName] (line: +95)	SRC: getLog => DST: getLogger
+
+UPDATE	[type: SimpleName] (line: -95) => [type: SimpleName] (line: +95)	SRC: LogFactory => DST: LoggerFactory
+

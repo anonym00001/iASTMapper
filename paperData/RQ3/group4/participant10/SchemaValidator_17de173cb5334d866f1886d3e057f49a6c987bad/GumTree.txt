@@ -1,0 +1,3 @@
+**UPD**:ImportDeclaration (LINE:-10) => ImportDeclaration (LINE:+9),1
+**UPD**:TypeDeclaration (LINE:-17) => TypeDeclaration (LINE:+17),1
+**UPD**:MethodDeclaration (LINE:-26) => MethodDeclaration (LINE:+25),1

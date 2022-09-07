@@ -1,0 +1,8 @@
+**DEL**:SwitchStatement (LINE:-314),1
+**ADD**:IfStatement (LINE:+314),1
+**ADD**:Block (LINE:+314),1
+**DEL**:SwitchCase (LINE:-315),1
+**DEL**:ExpressionStatement (LINE:-316),1
+**DEL**:SwitchCase (LINE:-318),1
+**MOV**:ExpressionStatement (LINE:-319) => ExpressionStatement (LINE:+315),1
+**MOV**:BreakStatement (LINE:-320) => BreakStatement (LINE:+316),1

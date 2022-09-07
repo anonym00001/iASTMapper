@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/513f8ca8698d305961ef3ecd8f6e470ee016c520)
+Path : hibernate-orm/hibernate-core/src/test/java/org/hibernate/test/annotations/collectionelement/ordered/Person.java

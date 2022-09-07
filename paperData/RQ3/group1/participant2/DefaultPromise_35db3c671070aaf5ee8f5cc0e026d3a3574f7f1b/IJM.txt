@@ -1,0 +1,8 @@
+**DEL**:VariableDeclarationStatement (LINE:-809),1
+**ADD**:VariableDeclarationStatement (LINE:+809),1
+**DEL**:ExpressionStatement (LINE:-810),1
+**DEL**:ExpressionStatement (LINE:-811),0
+**DEL**:ExpressionStatement (LINE:-812),1
+**DEL**:ExpressionStatement (LINE:-820),1
+**UPD**:ExpressionStatement (LINE:-821) => ExpressionStatement (LINE:+820),1
+**DEL**:ExpressionStatement (LINE:-822),1

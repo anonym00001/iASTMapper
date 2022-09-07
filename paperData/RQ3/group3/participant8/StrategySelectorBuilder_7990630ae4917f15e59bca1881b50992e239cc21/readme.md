@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/7990630ae4917f15e59bca1881b50992e239cc21)
+Path : hibernate-orm/hibernate-core/src/main/java/org/hibernate/boot/registry/selector/internal/StrategySelectorBuilder.java

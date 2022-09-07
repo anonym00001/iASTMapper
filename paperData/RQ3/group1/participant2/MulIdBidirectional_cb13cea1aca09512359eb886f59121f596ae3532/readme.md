@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/cb13cea1aca09512359eb886f59121f596ae3532)
+Path : hibernate-orm/hibernate-envers/src/test/java/org/hibernate/envers/test/integration/onetoone/bidirectional/ids/MulIdBidirectional.java

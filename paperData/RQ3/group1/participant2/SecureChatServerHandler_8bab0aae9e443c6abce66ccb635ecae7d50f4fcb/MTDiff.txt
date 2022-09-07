@@ -1,0 +1,6 @@
+**ADD**:ImportDeclaration (LINE:+19),1
+**ADD**:ImportDeclaration (LINE:+20),1
+**M&U**:MethodDeclaration (LINE:-39) => MethodDeclaration (LINE:+46),1
+**ADD**:MethodDeclaration (LINE:+41),1
+**ADD**:Block (LINE:+42),0
+**ADD**:ExpressionStatement (LINE:+45),1

@@ -1,0 +1,33 @@
+**UPD**:ExpressionStatement (LINE:-57) => ExpressionStatement (LINE:+68),0
+**ADD**:ExpressionStatement (LINE:+57),0
+**EXC**:VariableDeclarationStatement (LINE:-58) => VariableDeclarationStatement (LINE:+58),0
+**UPD**:ExpressionStatement (LINE:-59) => ExpressionStatement (LINE:+69),0
+**ADD**:ExpressionStatement (LINE:+59),0
+**EXC**:VariableDeclarationStatement (LINE:-60) => VariableDeclarationStatement (LINE:+60),1
+**UPD**:ExpressionStatement (LINE:-61) => ExpressionStatement (LINE:+76),0
+**ADD**:ExpressionStatement (LINE:+61),0
+**UPD**:ExpressionStatement (LINE:-62) => ExpressionStatement (LINE:+77),0
+**ADD**:ExpressionStatement (LINE:+62),0
+**UPD**:ExpressionStatement (LINE:-63) => ExpressionStatement (LINE:+85),1
+**ADD**:ExpressionStatement (LINE:+63),0
+**EXC**:VariableDeclarationStatement (LINE:-64) => VariableDeclarationStatement (LINE:+64),1
+**UPD**:ExpressionStatement (LINE:-65) => ExpressionStatement (LINE:+86),0
+**ADD**:ExpressionStatement (LINE:+65),0
+**UPD**:ExpressionStatement (LINE:-67) => ExpressionStatement (LINE:+87),0
+**ADD**:ExpressionStatement (LINE:+67),0
+**UPD**:ExpressionStatement (LINE:-68) => ExpressionStatement (LINE:+89),0
+**UPD**:ExpressionStatement (LINE:-69) => ExpressionStatement (LINE:+90),0
+**EXC**:ExpressionStatement (LINE:-74) => ExpressionStatement (LINE:+74),1
+**UPD**:ExpressionStatement (LINE:-76) => ExpressionStatement (LINE:+100),0
+**UPD**:ExpressionStatement (LINE:-77) => ExpressionStatement (LINE:+104),0
+**EXC**:TryStatement (LINE:-78) => TryStatement (LINE:+78),1
+**MOV**:CatchClause (LINE:-81) => CatchClause (LINE:+95),1
+**MOV**:Block (LINE:-81) => Block (LINE:+81),0
+**ADD**:CatchClause (LINE:+81),0
+**UPD**:ExpressionStatement (LINE:-82) => ExpressionStatement (LINE:+82),1
+**UPD**:ExpressionStatement (LINE:-85) => ExpressionStatement (LINE:+105),0
+**M&U**:ExpressionStatement (LINE:-86) => ExpressionStatement (LINE:+92),0
+**M&U**:ExpressionStatement (LINE:-87) => ExpressionStatement (LINE:+93),0
+**ADD**:TryStatement (LINE:+91),1
+**ADD**:Block (LINE:+91),1
+**ADD**:Block (LINE:+95),1

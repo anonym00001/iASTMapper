@@ -1,0 +1,9 @@
+**ADD**:ImportDeclaration (LINE:+9),1
+**ADD**:ImportDeclaration (LINE:+10),1
+**UPD**:TypeDeclaration (LINE:-16) => TypeDeclaration (LINE:+18),1
+**DEL**:MethodDeclaration (LINE:-47),1
+**DEL**:Block (LINE:-48),1
+**DEL**:ExpressionStatement (LINE:-49),1
+**ADD**:MethodDeclaration (LINE:+49),1
+**ADD**:Block (LINE:+50),1
+**ADD**:ExpressionStatement (LINE:+51),1

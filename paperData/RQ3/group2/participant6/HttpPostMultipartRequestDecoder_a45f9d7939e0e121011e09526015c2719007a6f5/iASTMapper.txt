@@ -1,0 +1,3 @@
+**ADD**:VariableDeclarationStatement (LINE:+767),1
+**UPD**:IfStatement (LINE:-767) => IfStatement (LINE:+768),1
+**UPD**:ExpressionStatement (LINE:-771) => ExpressionStatement (LINE:+772),1

@@ -1,0 +1,20 @@
+**ADD**:ImportDeclaration (LINE:+42),1
+**DEL**:Block (LINE:-146),0
+**ADD**:Block (LINE:+147),0
+**MOV**:ExpressionStatement (LINE:-147) => ExpressionStatement (LINE:+148),0
+**DEL**:Block (LINE:-151),0
+**ADD**:Block (LINE:+152),0
+**MOV**:ExpressionStatement (LINE:-152) => ExpressionStatement (LINE:+153),0
+**ADD**:VariableDeclarationStatement (LINE:+157),1
+**ADD**:IfStatement (LINE:+158),1
+**ADD**:Block (LINE:+158),1
+**ADD**:ExpressionStatement (LINE:+159),1
+**ADD**:Block (LINE:+161),1
+**ADD**:ExpressionStatement (LINE:+162),1
+**DEL**:Block (LINE:-156),0
+**ADD**:Block (LINE:+165),0
+**MOV**:ExpressionStatement (LINE:-157) => ExpressionStatement (LINE:+166),0
+**DEL**:Block (LINE:-161),0
+**ADD**:Block (LINE:+170),0
+**MOV**:ExpressionStatement (LINE:-162) => ExpressionStatement (LINE:+171),0
+**UPD**:ExpressionStatement (LINE:-165) => ExpressionStatement (LINE:+174),1

@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-search/commit/0ded8d46df27169c1fa202745459528e6214a56e)
+Path : hibernate-search/backend/elasticsearch/src/main/java/org/hibernate/search/backend/elasticsearch/types/projection/impl/ElasticsearchStandardFieldProjectionBuilderFactory.java

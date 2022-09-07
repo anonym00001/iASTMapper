@@ -1,0 +1,5 @@
+**DEL**:MethodDeclaration (LINE:-26),1
+**ADD**:MethodDeclaration (LINE:+26),1
+**DEL**:MethodDeclaration (LINE:-31),1
+**MOV**:Block (LINE:-31) => Block (LINE:+31),1
+**ADD**:MethodDeclaration (LINE:+31),1

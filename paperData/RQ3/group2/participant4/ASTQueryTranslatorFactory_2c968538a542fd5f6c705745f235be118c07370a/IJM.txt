@@ -1,0 +1,2 @@
+**DEL**:ExpressionStatement (LINE:-47),1
+**ADD**:FieldDeclaration (LINE:+50),1

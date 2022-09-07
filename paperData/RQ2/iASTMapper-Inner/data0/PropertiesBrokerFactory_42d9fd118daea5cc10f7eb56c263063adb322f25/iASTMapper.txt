@@ -1,0 +1,33 @@
+**UPD**:VariableDeclarationStatement (LINE:-41) => VariableDeclarationStatement (LINE:+41),1
+**UPD**:MethodDeclaration (LINE:-51) => MethodDeclaration (LINE:+51),1
+**DEL**:Block (LINE:-51),0
+**ADD**:Block (LINE:+51),0
+**MOV**:VariableDeclarationStatement (LINE:-53) => VariableDeclarationStatement (LINE:+53),0
+**MOV**:VariableDeclarationStatement (LINE:-54) => VariableDeclarationStatement (LINE:+54),0
+**MOV**:VariableDeclarationStatement (LINE:-55) => VariableDeclarationStatement (LINE:+55),0
+**ADD**:TryStatement (LINE:+57),1
+**ADD**:Block (LINE:+57),1
+**MOV**:IfStatement (LINE:-75) => IfStatement (LINE:+58),1
+**ADD**:Block (LINE:+58),0
+**MOV**:ExpressionStatement (LINE:-76) => ExpressionStatement (LINE:+59),0
+**MOV**:TryStatement (LINE:-81) => TryStatement (LINE:+64),0
+**MOV**:ReturnStatement (LINE:-87) => ReturnStatement (LINE:+70),0
+**ADD**:MethodDeclaration (LINE:+73),1
+**ADD**:Block (LINE:+73),1
+**MOV**:VariableDeclarationStatement (LINE:-57) => VariableDeclarationStatement (LINE:+74),1
+**M&U**:IfStatement (LINE:-58) => IfStatement (LINE:+75),1
+**DEL**:Block (LINE:-58),0
+**ADD**:Block (LINE:+75),0
+**MOV**:ExpressionStatement (LINE:-59) => ExpressionStatement (LINE:+76),0
+**DEL**:Block (LINE:-60),0
+**ADD**:Block (LINE:+77),0
+**MOV**:VariableDeclarationStatement (LINE:-61) => VariableDeclarationStatement (LINE:+78),0
+**MOV**:TryStatement (LINE:-62) => TryStatement (LINE:+79),0
+**MOV**:IfStatement (LINE:-71) => IfStatement (LINE:+88),0
+**DEL**:Block (LINE:-75),0
+**DEL**:ExpressionStatement (LINE:-77),1
+**ADD**:ReturnStatement (LINE:+92),1
+**UPD**:MethodDeclaration (LINE:-98) => MethodDeclaration (LINE:+103),1
+**DEL**:Block (LINE:-98),0
+**ADD**:Block (LINE:+103),0
+**MOV**:ReturnStatement (LINE:-99) => ReturnStatement (LINE:+104),0

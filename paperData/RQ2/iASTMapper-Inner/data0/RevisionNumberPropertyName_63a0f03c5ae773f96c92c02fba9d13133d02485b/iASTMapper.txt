@@ -1,0 +1,7 @@
+**DEL**:ImportDeclaration (LINE:-26),1
+**ADD**:ImportDeclaration (LINE:+26),1
+**UPD**:MethodDeclaration (LINE:-34) => MethodDeclaration (LINE:+34),1
+**DEL**:Block (LINE:-35),0
+**DEL**:ReturnStatement (LINE:-36),0
+**ADD**:Block (LINE:+35),0
+**ADD**:ReturnStatement (LINE:+36),0

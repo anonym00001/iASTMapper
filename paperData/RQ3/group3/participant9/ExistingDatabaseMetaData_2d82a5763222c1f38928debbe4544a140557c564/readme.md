@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/2d82a5763222c1f38928debbe4544a140557c564)
+Path : hibernate-orm/hibernate-core/src/main/java/org/hibernate/service/schema/spi/ExistingDatabaseMetaData.java

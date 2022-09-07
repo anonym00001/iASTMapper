@@ -1,0 +1,31 @@
+**DEL**:Block (LINE:-280),0
+**ADD**:Block (LINE:+280),0
+**MOV**:ExpressionStatement (LINE:-281) => ExpressionStatement (LINE:+281),0
+**MOV**:ExpressionStatement (LINE:-282) => ExpressionStatement (LINE:+282),0
+**MOV**:IfStatement (LINE:-283) => IfStatement (LINE:+283),0
+**DEL**:Block (LINE:-283),0
+**ADD**:Block (LINE:+283),0
+**ADD**:VariableDeclarationStatement (LINE:+284),0
+**ADD**:ExpressionStatement (LINE:+286),1
+**MOV**:IfStatement (LINE:-284) => IfStatement (LINE:+287),0
+**DEL**:Block (LINE:-284),0
+**ADD**:Block (LINE:+287),0
+**M&U**:ThrowStatement (LINE:-285) => ThrowStatement (LINE:+288),0
+**MOV**:IfStatement (LINE:-291) => IfStatement (LINE:+294),0
+**DEL**:Block (LINE:-369),0
+**ADD**:Block (LINE:+372),0
+**MOV**:VariableDeclarationStatement (LINE:-370) => VariableDeclarationStatement (LINE:+373),1
+**MOV**:ExpressionStatement (LINE:-371) => ExpressionStatement (LINE:+374),0
+**DEL**:Block (LINE:-392),0
+**DEL**:IfStatement (LINE:-393),0
+**DEL**:Block (LINE:-393),0
+**ADD**:Block (LINE:+395),1
+**ADD**:IfStatement (LINE:+396),0
+**ADD**:Block (LINE:+396),0
+**ADD**:VariableDeclarationStatement (LINE:+397),1
+**ADD**:ExpressionStatement (LINE:+399),1
+**ADD**:IfStatement (LINE:+400),1
+**ADD**:Block (LINE:+400),1
+**M&U**:ThrowStatement (LINE:-394) => ThrowStatement (LINE:+401),1
+**MOV**:WhileStatement (LINE:-396) => WhileStatement (LINE:+404),0
+**MOV**:ExpressionStatement (LINE:-401) => ExpressionStatement (LINE:+409),0

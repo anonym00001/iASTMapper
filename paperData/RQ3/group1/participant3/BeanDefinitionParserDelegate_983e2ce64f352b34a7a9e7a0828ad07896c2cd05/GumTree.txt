@@ -1,0 +1,6 @@
+**MOV**:Block (LINE:-828) => Block (LINE:+831),0
+**ADD**:Block (LINE:+828),1
+**UPD**:ExpressionStatement (LINE:-829) => ExpressionStatement (LINE:+832),1
+**ADD**:VariableDeclarationStatement (LINE:+829),1
+**ADD**:ExpressionStatement (LINE:+830),1
+**ADD**:IfStatement (LINE:+831),1
