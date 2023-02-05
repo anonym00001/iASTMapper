@@ -144,7 +144,7 @@ public class iASTMapper {
             boolean findMappings1 = matcher1.buildMappingsInnerLoop();
             boolean findMappings3 = matcher3.buildMappingsInnerLoop();
             boolean findMappings2 = matcher2.buildMappingsInnerLoop();
-            if (!findMappings1 && !findMappings2 && !findMappings3)
+            if (!findMappings2)
                 break;
         }
 
