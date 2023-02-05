@@ -80,11 +80,58 @@ public class CandidateSearcher {
     }
 
     private Set<ProgramElement> getDstCandidateInnerStmtElements(InnerStmtElement srcInnerStmtEle) {
-        return getDstTypeElementMap().get(srcInnerStmtEle.getElementType());
+        List<TokenElement> srcTokens = srcInnerStmtEle.getTokenElements();
+        Set<ProgramElement> ret = new HashSet<>();
+        ProgramElementType srcEleType = srcInnerStmtEle.getElementType();
+
+        for (TokenElement token: srcTokens) {
+            ProgramElement dstToken = elementMappings.getMappedElement(token);
+            if (dstToken != null) {
+                List<InnerStmtElement> innerStmtElements = ((TokenElement) dstToken).getInnerStmtElementsWithToken();
+                for (InnerStmtElement element: innerStmtElements){
+                    ProgramElementType dstEleType = element.getElementType();
+                    if (srcEleType.equals(dstEleType))
+                        ret.add(element);
+                }
+            }
+        }
+        ProgramElement srcParentEle = srcInnerStmtEle.getParentElement();
+        if (elementMappings.isMapped(srcParentEle)) {
+            ProgramElement dstParentEle = elementMappings.getMappedElement(srcParentEle);
+            ret.addAll(dstParentEle.getInnerStmtElements());
+        }
+        return ret;
     }
 
     private Set<ProgramElement> getDstCandidateTokenElements(TokenElement srcToken) {
-        return candidateSetsAndMaps.getSameTypeDstCandidates(srcToken.getElementType());
+        FastTokenCandidateSearcher searcher = new FastTokenCandidateSearcher(srcToken, elementMappings,
+                candidateSetsAndMaps);
+        Set<ProgramElement> candidatesWithSameStructure = searcher.getCandidatesWithIdenticalMultiTokenForSrcToken();
+        Set<ProgramElement> sameStmtCandidates = searcher.getSameStmtCandidateTokensForSrcToken();
+
+        Set<ProgramElement> tmp = getDstCandidateTokenElementsInSameStmt(srcToken, sameStmtCandidates);
+        if (tmp.size() > 0) {
+            Set<ProgramElement> tmp2 = new HashSet<>(tmp);
+            tmp2.retainAll(candidatesWithSameStructure);
+            if (tmp2.size() > 0) {
+                if (checkGoodCandidatesCondition(srcToken, tmp2))
+                    return tmp2;
+            }
+
+            if (checkGoodCandidatesCondition(srcToken, tmp))
+                return tmp;
+        } else if (candidatesWithSameStructure.size() > 0) {
+            if (checkGoodCandidatesCondition(srcToken, candidatesWithSameStructure))
+                return candidatesWithSameStructure;
+        }
+
+        Set<ProgramElement> neighborCandidates = searcher.getNeighborCandidateTokensForSrcToken();
+        Set<ProgramElement> sameOrRenameValCandidates = searcher.getSameValOrRenameCandidateTokensForSrcToken();
+        Set<ProgramElement> ret = new HashSet<>();
+        ret.addAll(tmp);
+        ret.addAll(neighborCandidates);
+        ret.addAll(sameOrRenameValCandidates);
+        return ret;
     }
 
     private Set<ProgramElement> getDstCandidateTokenElementsInSameStmt(TokenElement srcToken,
