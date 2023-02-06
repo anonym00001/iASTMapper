@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/spring-projects/spring-framework/commit/f036ed639f95b64842aa0abe742cad26f37cc50b)
-Path : spring-framework/spring-web/src/main/java/org/springframework/web/context/request/async/CallableProcessingInterceptor.java

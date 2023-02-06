@@ -1,9 +1,0 @@
-**ADD**:TryStatement (LINE:+310),1
-**M&U**:ExpressionStatement (LINE:-313) => ExpressionStatement (LINE:+495),0
-**ADD**:CatchClause (LINE:+314),1
-**ADD**:Block (LINE:+314),1
-**MOV**:Block (LINE:-487) => Block (LINE:+516),0
-**UPD**:ExpressionStatement (LINE:-488) => ExpressionStatement (LINE:+517),0
-**ADD**:Block (LINE:+494),1
-**MOV**:Block (LINE:-509) => Block (LINE:+310),0
-**UPD**:ExpressionStatement (LINE:-510) => ExpressionStatement (LINE:+313),0

@@ -1,6 +1,0 @@
-**ADD**:ImportDeclaration (LINE:+33),1
-**MOV**:Block (LINE:-96) => Block (LINE:+99),0
-**UPD**:ReturnStatement (LINE:-97) => ReturnStatement (LINE:+100),1
-**ADD**:Block (LINE:+97),0
-**ADD**:VariableDeclarationStatement (LINE:+98),1
-**ADD**:IfStatement (LINE:+99),1

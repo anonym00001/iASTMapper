@@ -1,8 +1,0 @@
-**ADD**:MethodDeclaration (LINE:+235),1
-**ADD**:Block (LINE:+235),1
-**ADD**:ExpressionStatement (LINE:+236),1
-**ADD**:MethodDeclaration (LINE:+238),1
-**MOV**:Block (LINE:-259) => Block (LINE:+238),0
-**MOV**:ExpressionStatement (LINE:-261) => ExpressionStatement (LINE:+274),1
-**ADD**:Block (LINE:+272),1
-**ADD**:ExpressionStatement (LINE:+276),1

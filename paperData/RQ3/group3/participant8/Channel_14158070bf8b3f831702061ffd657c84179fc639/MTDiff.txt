@@ -1,7 +1,0 @@
-**DEL**:ImportDeclaration (LINE:-18),1
-**DEL**:ImportDeclaration (LINE:-19),1
-**DEL**:MethodDeclaration (LINE:-122),1
-**DEL**:MethodDeclaration (LINE:-130),1
-**DEL**:MethodDeclaration (LINE:-187),1
-**M&U**:MethodDeclaration (LINE:-256) => MethodDeclaration (LINE:+153),0
-**UPD**:MethodDeclaration (LINE:-268) => MethodDeclaration (LINE:+239),0

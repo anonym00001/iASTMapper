@@ -1,0 +1,12 @@
+**UPD**:ImportDeclaration (LINE:-13) => ImportDeclaration (LINE:+13),1
+**ADD**:ImportDeclaration (LINE:+14),1
+**UPD**:TypeDeclaration (LINE:-20) => TypeDeclaration (LINE:+21),1
+**UPD**:FieldDeclaration (LINE:-26) => FieldDeclaration (LINE:+28),1
+**ADD**:FieldDeclaration (LINE:+27),1
+**UPD**:MethodDeclaration (LINE:-28) => MethodDeclaration (LINE:+30),1
+**UPD**:MethodDeclaration (LINE:-33) => MethodDeclaration (LINE:+38),1
+**ADD**:ExpressionStatement (LINE:+35),1
+**UPD**:IfStatement (LINE:-38) => IfStatement (LINE:+44),1
+**UPD**:ReturnStatement (LINE:-43) => ReturnStatement (LINE:+49),1
+**UPD**:VariableDeclarationStatement (LINE:-63) => VariableDeclarationStatement (LINE:+69),1
+**UPD**:ReturnStatement (LINE:-65) => ReturnStatement (LINE:+71),1

@@ -1,5 +1,0 @@
-**ADD**:IfStatement (LINE:+22),1
-**ADD**:Block (LINE:+22),1
-**ADD**:ReturnStatement (LINE:+23),1
-**MOV**:ReturnStatement (LINE:-23) => ReturnStatement (LINE:+25),1
-**ADD**:Block (LINE:+24),1

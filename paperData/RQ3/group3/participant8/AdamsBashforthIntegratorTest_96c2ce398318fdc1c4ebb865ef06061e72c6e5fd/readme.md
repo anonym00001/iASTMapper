@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/apache/commons-math/commit/96c2ce398318fdc1c4ebb865ef06061e72c6e5fd)
-Path : commons-math/src/test/java/org/apache/commons/math/ode/nonstiff/AdamsBashforthIntegratorTest.java

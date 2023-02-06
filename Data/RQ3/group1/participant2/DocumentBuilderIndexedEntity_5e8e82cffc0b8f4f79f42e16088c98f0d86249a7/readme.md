@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-search/commit/5e8e82cffc0b8f4f79f42e16088c98f0d86249a7)
+Path : hibernate-search/hibernate-search/src/main/java/org/hibernate/search/engine/DocumentBuilderIndexedEntity.java

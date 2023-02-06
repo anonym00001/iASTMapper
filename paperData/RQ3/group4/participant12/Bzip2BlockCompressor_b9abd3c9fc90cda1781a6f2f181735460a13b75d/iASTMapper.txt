@@ -1,5 +1,0 @@
-**DEL**:ForStatement (LINE:-120),1
-**DEL**:Block (LINE:-120),1
-**ADD**:EnhancedForStatement (LINE:+120),1
-**ADD**:Block (LINE:+120),1
-**M&U**:ExpressionStatement (LINE:-121) => ExpressionStatement (LINE:+121),1

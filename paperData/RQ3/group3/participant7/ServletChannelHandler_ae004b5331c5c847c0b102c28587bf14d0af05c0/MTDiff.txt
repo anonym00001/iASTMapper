@@ -1,8 +1,0 @@
-**MOV**:IfStatement (LINE:-83) => IfStatement (LINE:+85),1
-**E&U**:VariableDeclarationStatement (LINE:-87) => VariableDeclarationStatement (LINE:+82),1
-**M&U**:ExpressionStatement (LINE:-88) => ExpressionStatement (LINE:+181),0
-**M&U**:ExpressionStatement (LINE:-177) => ExpressionStatement (LINE:+187),1
-**M&U**:ExpressionStatement (LINE:-178) => ExpressionStatement (LINE:+89),0
-**ADD**:ExpressionStatement (LINE:+178),1
-**UPD**:ExpressionStatement (LINE:-180) => ExpressionStatement (LINE:+180),0
-**M&U**:ExpressionStatement (LINE:-186) => ExpressionStatement (LINE:+90),0

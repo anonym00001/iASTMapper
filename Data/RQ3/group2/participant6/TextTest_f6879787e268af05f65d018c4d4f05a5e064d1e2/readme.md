@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/f6879787e268af05f65d018c4d4f05a5e064d1e2)
+Path : hibernate-orm/hibernate-core/src/test/java/org/hibernate/test/annotations/lob/TextTest.java

@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/spring-projects/spring-framework/commit/def90d1016ae948cefa9346bd7660c134ebb168b)
-Path : spring-framework/org.springframework.web/src/test/java/org/springframework/http/converter/multipart/MultipartHttpMessageConverterTest.java

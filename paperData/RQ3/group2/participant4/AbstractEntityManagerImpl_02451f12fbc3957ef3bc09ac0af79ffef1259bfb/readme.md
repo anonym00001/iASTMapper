@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/02451f12fbc3957ef3bc09ac0af79ffef1259bfb)
-Path : hibernate-orm/entitymanager/src/main/java/org/hibernate/ejb/AbstractEntityManagerImpl.java

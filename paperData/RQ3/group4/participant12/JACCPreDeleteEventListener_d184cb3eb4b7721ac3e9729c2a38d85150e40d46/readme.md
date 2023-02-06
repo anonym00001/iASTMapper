@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/d184cb3eb4b7721ac3e9729c2a38d85150e40d46)
-Path : hibernate-orm/hibernate-core/src/main/java/org/hibernate/secure/internal/JACCPreDeleteEventListener.java

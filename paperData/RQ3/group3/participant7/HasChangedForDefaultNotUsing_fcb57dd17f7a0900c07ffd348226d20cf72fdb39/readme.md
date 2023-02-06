@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/fcb57dd17f7a0900c07ffd348226d20cf72fdb39)
-Path : hibernate-orm/hibernate-envers/src/test/java/org/hibernate/envers/test/integration/modifiedflags/HasChangedForDefaultNotUsing.java

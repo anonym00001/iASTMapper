@@ -1,0 +1,14 @@
+**DEL**:ImportDeclaration (LINE:-20),1
+**DEL**:ImportDeclaration (LINE:-21),1
+**DEL**:ImportDeclaration (LINE:-22),1
+**ADD**:ImportDeclaration (LINE:+34),1
+**ADD**:ImportDeclaration (LINE:+35),1
+**ADD**:ImportDeclaration (LINE:+36),0
+**ADD**:ImportDeclaration (LINE:+48),1
+**ADD**:ImportDeclaration (LINE:+49),1
+**UPD**:VariableDeclarationStatement (LINE:-66) => VariableDeclarationStatement (LINE:+68),1
+**UPD**:ExpressionStatement (LINE:-95) => ExpressionStatement (LINE:+97),1
+**UPD**:ExpressionStatement (LINE:-154) => ExpressionStatement (LINE:+154),1
+**UPD**:ExpressionStatement (LINE:-182) => ExpressionStatement (LINE:+182),1
+**UPD**:ExpressionStatement (LINE:-191) => ExpressionStatement (LINE:+191),1
+**UPD**:ExpressionStatement (LINE:-216) => ExpressionStatement (LINE:+216),1

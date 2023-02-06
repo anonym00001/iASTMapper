@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/df4df47b95f379286e9d0898c3efd27dde22be03)
-Path : hibernate-orm/hibernate-core/src/test/java/org/hibernate/test/annotations/naturalid/NaturalIdOnSingleManyToOneTest.java

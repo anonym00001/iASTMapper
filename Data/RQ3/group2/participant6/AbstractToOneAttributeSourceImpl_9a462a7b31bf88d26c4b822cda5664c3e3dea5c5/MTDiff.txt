@@ -1,0 +1,7 @@
+**MOV**:FieldDeclaration (LINE:-46) => FieldDeclaration (LINE:+194),1
+**ADD**:FieldDeclaration (LINE:+46),0
+**UPD**:ReturnStatement (LINE:-188) => ReturnStatement (LINE:+188),0
+**UPD**:TypeDeclaration (LINE:-193) => TypeDeclaration (LINE:+193),1
+**ADD**:MethodDeclaration (LINE:+196),1
+**ADD**:Block (LINE:+196),1
+**ADD**:ExpressionStatement (LINE:+197),1

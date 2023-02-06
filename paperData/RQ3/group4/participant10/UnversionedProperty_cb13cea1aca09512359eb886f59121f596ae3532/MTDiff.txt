@@ -1,4 +1,0 @@
-**DEL**:ImportDeclaration (LINE:-31),1
-**UPD**:MethodDeclaration (LINE:-42) => MethodDeclaration (LINE:+41),1
-**DEL**:ExpressionStatement (LINE:-43),1
-**ADD**:ReturnStatement (LINE:+43),1

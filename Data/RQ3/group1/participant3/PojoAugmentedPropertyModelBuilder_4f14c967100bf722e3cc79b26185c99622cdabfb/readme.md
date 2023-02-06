@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-search/commit/4f14c967100bf722e3cc79b26185c99622cdabfb)
+Path : hibernate-search/mapper/pojo/src/main/java/org/hibernate/search/mapper/pojo/model/augmented/building/impl/PojoAugmentedPropertyModelBuilder.java

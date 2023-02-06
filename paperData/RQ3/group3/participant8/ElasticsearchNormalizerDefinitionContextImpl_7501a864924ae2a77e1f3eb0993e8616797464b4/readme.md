@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-search/commit/7501a864924ae2a77e1f3eb0993e8616797464b4)
-Path : hibernate-search/backend/elasticsearch/src/main/java/org/hibernate/search/backend/elasticsearch/analysis/model/dsl/impl/ElasticsearchNormalizerDefinitionContextImpl.java

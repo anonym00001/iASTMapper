@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-search/commit/258aea14af580bdd057ae5812ca6a8d1548d8529)
-Path : hibernate-search/orm/src/test/java/org/hibernate/search/test/jmx/IndexControlMBeanTest.java

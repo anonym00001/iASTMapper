@@ -1,0 +1,32 @@
+**ADD**:ImportDeclaration (LINE:+13),1
+**UPD**:TypeDeclaration (LINE:-19) => TypeDeclaration (LINE:+20),1
+**ADD**:FieldDeclaration (LINE:+31),1
+**UPD**:FieldDeclaration (LINE:-30) => FieldDeclaration (LINE:+33),1
+**UPD**:FieldDeclaration (LINE:-34) => FieldDeclaration (LINE:+36),1
+**UPD**:MethodDeclaration (LINE:-38) => MethodDeclaration (LINE:+39),1
+**DEL**:Block (LINE:-41),0
+**ADD**:Block (LINE:+43),0
+**MOV**:ExpressionStatement (LINE:-42) => ExpressionStatement (LINE:+44),0
+**MOV**:ExpressionStatement (LINE:-43) => ExpressionStatement (LINE:+45),0
+**MOV**:ExpressionStatement (LINE:-44) => ExpressionStatement (LINE:+46),0
+**ADD**:ExpressionStatement (LINE:+47),1
+**DEL**:TryStatement (LINE:-49),0
+**DEL**:Block (LINE:-49),0
+**ADD**:TryStatement (LINE:+52),0
+**ADD**:Block (LINE:+52),0
+**ADD**:VariableDeclarationStatement (LINE:+53),1
+**M&U**:ExpressionStatement (LINE:-50) => ExpressionStatement (LINE:+54),0
+**MOV**:CatchClause (LINE:-52) => CatchClause (LINE:+56),1
+**DEL**:Block (LINE:-52),0
+**ADD**:Block (LINE:+56),0
+**MOV**:ThrowStatement (LINE:-53) => ThrowStatement (LINE:+57),0
+**DEL**:TryStatement (LINE:-66),0
+**DEL**:Block (LINE:-66),0
+**ADD**:TryStatement (LINE:+70),0
+**ADD**:Block (LINE:+70),0
+**ADD**:VariableDeclarationStatement (LINE:+71),1
+**M&U**:ExpressionStatement (LINE:-67) => ExpressionStatement (LINE:+72),0
+**MOV**:CatchClause (LINE:-69) => CatchClause (LINE:+74),0
+**DEL**:Block (LINE:-69),0
+**ADD**:Block (LINE:+74),0
+**MOV**:ThrowStatement (LINE:-70) => ThrowStatement (LINE:+75),0

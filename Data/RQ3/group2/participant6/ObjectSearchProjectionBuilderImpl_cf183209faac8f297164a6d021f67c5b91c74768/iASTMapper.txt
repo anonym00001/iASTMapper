@@ -1,0 +1,9 @@
+**ADD**:ImportDeclaration (LINE:+9),1
+**DEL**:FieldDeclaration (LINE:-15),0
+**ADD**:FieldDeclaration (LINE:+16),0
+**DEL**:MethodDeclaration (LINE:-17),1
+**DEL**:Block (LINE:-17),1
+**DEL**:ReturnStatement (LINE:-18),1
+**ADD**:ExpressionStatement (LINE:+19),1
+**UPD**:MethodDeclaration (LINE:-21) => MethodDeclaration (LINE:+18),1
+**UPD**:ReturnStatement (LINE:-26) => ReturnStatement (LINE:+24),1

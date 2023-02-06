@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/9a462a7b31bf88d26c4b822cda5664c3e3dea5c5)
-Path : hibernate-orm/hibernate-core/src/main/java/org/hibernate/metamodel/internal/source/hbm/AbstractToOneAttributeSourceImpl.java

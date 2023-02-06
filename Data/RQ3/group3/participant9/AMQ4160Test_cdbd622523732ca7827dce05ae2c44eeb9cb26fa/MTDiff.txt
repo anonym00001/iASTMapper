@@ -1,0 +1,6 @@
+**M&U**:MethodDeclaration (LINE:-247) => MethodDeclaration (LINE:+305),0
+**ADD**:MethodDeclaration (LINE:+247),0
+**ADD**:Block (LINE:+248),0
+**MOV**:ExpressionStatement (LINE:-249) => ExpressionStatement (LINE:+249),1
+**MOV**:ExpressionStatement (LINE:-250) => ExpressionStatement (LINE:+250),0
+**ADD**:ReturnStatement (LINE:+307),1

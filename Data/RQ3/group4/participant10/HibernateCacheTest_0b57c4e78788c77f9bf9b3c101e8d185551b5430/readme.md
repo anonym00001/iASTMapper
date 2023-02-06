@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/0b57c4e78788c77f9bf9b3c101e8d185551b5430)
+Path : hibernate-orm/hibernate-ehcache/src/test/java/org/hibernate/test/cache/HibernateCacheTest.java

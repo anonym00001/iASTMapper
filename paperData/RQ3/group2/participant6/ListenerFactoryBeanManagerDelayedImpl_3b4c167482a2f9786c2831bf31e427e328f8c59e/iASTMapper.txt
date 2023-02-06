@@ -1,3 +1,0 @@
-**ADD**:IfStatement (LINE:+44),1
-**ADD**:Block (LINE:+44),1
-**ADD**:ThrowStatement (LINE:+45),1

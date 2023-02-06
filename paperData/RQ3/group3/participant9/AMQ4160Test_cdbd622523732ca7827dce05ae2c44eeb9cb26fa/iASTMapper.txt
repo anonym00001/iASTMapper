@@ -1,3 +1,0 @@
-**ADD**:MethodDeclaration (LINE:+305),1
-**ADD**:Block (LINE:+306),1
-**ADD**:ReturnStatement (LINE:+307),1

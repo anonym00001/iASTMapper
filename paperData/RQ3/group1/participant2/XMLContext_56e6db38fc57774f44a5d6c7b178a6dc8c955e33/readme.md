@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/56e6db38fc57774f44a5d6c7b178a6dc8c955e33)
-Path : hibernate-orm/hibernate-core/src/main/java/org/hibernate/cfg/annotations/reflection/XMLContext.java

@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/spring-projects/spring-framework/commit/e443c836fe322258414c9f8d5a521fc9499342b3)
-Path : spring-framework/org.springframework.expression/src/main/java/org/springframework/expression/spel/reflection/ReflectionMethodExecutor.java

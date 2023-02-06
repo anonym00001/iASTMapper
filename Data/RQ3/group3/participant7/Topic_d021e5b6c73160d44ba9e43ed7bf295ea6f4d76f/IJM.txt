@@ -1,0 +1,10 @@
+**ADD**:VariableDeclarationStatement (LINE:+284),1
+**UPD**:ThrowStatement (LINE:-285) => ThrowStatement (LINE:+288),1
+**ADD**:ExpressionStatement (LINE:+286),1
+**UPD**:IfStatement (LINE:-393) => IfStatement (LINE:+396),1
+**MOV**:Block (LINE:-393) => Block (LINE:+400),0
+**UPD**:ThrowStatement (LINE:-394) => ThrowStatement (LINE:+401),1
+**ADD**:Block (LINE:+396),1
+**ADD**:VariableDeclarationStatement (LINE:+397),1
+**ADD**:ExpressionStatement (LINE:+399),1
+**ADD**:IfStatement (LINE:+400),1

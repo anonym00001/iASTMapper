@@ -1,0 +1,33 @@
+**ADD**:ImportDeclaration (LINE:+22),1
+**MOV**:Block (LINE:-64) => Block (LINE:+176),0
+**M&U**:ReturnStatement (LINE:-65) => ReturnStatement (LINE:+66),1
+**ADD**:Block (LINE:+65),0
+**UPD**:ExpressionStatement (LINE:-113) => ExpressionStatement (LINE:+115),0
+**E&U**:ExpressionStatement (LINE:-114) => ExpressionStatement (LINE:+120),0
+**ADD**:ExpressionStatement (LINE:+114),0
+**UPD**:ExpressionStatement (LINE:-119) => ExpressionStatement (LINE:+121),0
+**UPD**:ExpressionStatement (LINE:-120) => ExpressionStatement (LINE:+125),0
+**UPD**:ExpressionStatement (LINE:-124) => ExpressionStatement (LINE:+129),0
+**EXC**:ExpressionStatement (LINE:-126) => ExpressionStatement (LINE:+127),0
+**UPD**:ExpressionStatement (LINE:-128) => ExpressionStatement (LINE:+131),0
+**UPD**:ExpressionStatement (LINE:-130) => ExpressionStatement (LINE:+136),0
+**EXC**:ExpressionStatement (LINE:-134) => ExpressionStatement (LINE:+135),0
+**UPD**:ExpressionStatement (LINE:-135) => ExpressionStatement (LINE:+137),0
+**E&U**:ExpressionStatement (LINE:-136) => ExpressionStatement (LINE:+145),0
+**UPD**:ExpressionStatement (LINE:-144) => ExpressionStatement (LINE:+150),0
+**EXC**:ExpressionStatement (LINE:-148) => ExpressionStatement (LINE:+149),0
+**UPD**:ExpressionStatement (LINE:-149) => ExpressionStatement (LINE:+151),0
+**UPD**:ExpressionStatement (LINE:-150) => ExpressionStatement (LINE:+155),0
+**EXC**:ExpressionStatement (LINE:-153) => ExpressionStatement (LINE:+154),0
+**UPD**:ExpressionStatement (LINE:-154) => ExpressionStatement (LINE:+158),0
+**E&U**:ExpressionStatement (LINE:-157) => ExpressionStatement (LINE:+161),0
+**M&U**:ExpressionStatement (LINE:-160) => ExpressionStatement (LINE:+223),0
+**MOV**:ExpressionStatement (LINE:-164) => ExpressionStatement (LINE:+166),1
+**ADD**:IfStatement (LINE:+164),1
+**ADD**:Block (LINE:+164),1
+**ADD**:Block (LINE:+167),1
+**ADD**:IfStatement (LINE:+176),1
+**ADD**:ReturnStatement (LINE:+178),1
+**EXC**:ExpressionStatement (LINE:-213) => ExpressionStatement (LINE:+227),1
+**E&U**:ExpressionStatement (LINE:-217) => ExpressionStatement (LINE:+241),0
+**M&U**:ExpressionStatement (LINE:-231) => ExpressionStatement (LINE:+169),0

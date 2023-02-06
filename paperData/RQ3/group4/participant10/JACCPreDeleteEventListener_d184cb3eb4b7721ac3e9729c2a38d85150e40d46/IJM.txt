@@ -1,8 +1,0 @@
-**DEL**:ImportDeclaration (LINE:-26),1
-**ADD**:ImportDeclaration (LINE:+28),1
-**UPD**:TypeDeclaration (LINE:-36) => TypeDeclaration (LINE:+36),1
-**DEL**:FieldDeclaration (LINE:-37),1
-**UPD**:MethodDeclaration (LINE:-39) => MethodDeclaration (LINE:+37),1
-**DEL**:ExpressionStatement (LINE:-40),1
-**DEL**:VariableDeclarationStatement (LINE:-44),1
-**UPD**:ExpressionStatement (LINE:-50) => ExpressionStatement (LINE:+41),1

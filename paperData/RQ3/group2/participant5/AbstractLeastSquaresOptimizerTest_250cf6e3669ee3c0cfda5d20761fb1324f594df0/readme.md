@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/apache/commons-math/commit/250cf6e3669ee3c0cfda5d20761fb1324f594df0)
-Path : commons-math/src/test/java/org/apache/commons/math3/optim/nonlinear/vector/jacobian/AbstractLeastSquaresOptimizerTest.java

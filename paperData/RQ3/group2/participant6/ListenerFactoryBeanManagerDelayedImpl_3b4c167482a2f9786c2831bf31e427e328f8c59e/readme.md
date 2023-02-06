@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/3b4c167482a2f9786c2831bf31e427e328f8c59e)
-Path : hibernate-orm/hibernate-entitymanager/src/main/java/org/hibernate/jpa/event/internal/jpa/ListenerFactoryBeanManagerDelayedImpl.java

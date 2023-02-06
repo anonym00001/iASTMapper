@@ -1,0 +1,8 @@
+**ADD**:MethodDeclaration (LINE:+56),1
+**ADD**:Block (LINE:+56),1
+**MOV**:IfStatement (LINE:-54) => IfStatement (LINE:+57),1
+**ADD**:ReturnStatement (LINE:+63),1
+**ADD**:ReturnStatement (LINE:+65),1
+**ADD**:IfStatement (LINE:+70),1
+**ADD**:Block (LINE:+70),1
+**MOV**:ReturnStatement (LINE:-60) => ReturnStatement (LINE:+71),1

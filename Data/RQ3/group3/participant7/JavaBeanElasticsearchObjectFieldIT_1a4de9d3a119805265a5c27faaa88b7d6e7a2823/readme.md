@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-search/commit/1a4de9d3a119805265a5c27faaa88b7d6e7a2823)
+Path : hibernate-search/integrationtest/mapper/pojo/src/test/java/org/hibernate/search/integrationtest/mapper/pojo/JavaBeanElasticsearchObjectFieldIT.java

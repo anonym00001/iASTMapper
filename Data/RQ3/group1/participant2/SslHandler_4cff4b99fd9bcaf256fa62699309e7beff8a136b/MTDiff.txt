@@ -1,0 +1,12 @@
+**UPD**:MethodDeclaration (LINE:-634) => MethodDeclaration (LINE:+654),1
+**ADD**:MethodDeclaration (LINE:+634),1
+**MOV**:Block (LINE:-636) => Block (LINE:+635),1
+**ADD**:Block (LINE:+648),0
+**MOV**:Block (LINE:-649) => Block (LINE:+654),0
+**M&U**:ExpressionStatement (LINE:-650) => ExpressionStatement (LINE:+650),1
+**M&U**:ExpressionStatement (LINE:-651) => ExpressionStatement (LINE:+649),1
+**ADD**:ExpressionStatement (LINE:+655),1
+**ADD**:IfStatement (LINE:+1257),1
+**ADD**:Block (LINE:+1257),1
+**ADD**:BreakStatement (LINE:+1258),1
+**ADD**:ExpressionStatement (LINE:+1681),1

@@ -1,4 +1,0 @@
-**UPD**:ReturnStatement (LINE:-1769) => ReturnStatement (LINE:+1793),1
-**ADD**:MethodDeclaration (LINE:+1771),1
-**ADD**:Block (LINE:+1771),1
-**ADD**:ReturnStatement (LINE:+1772),1

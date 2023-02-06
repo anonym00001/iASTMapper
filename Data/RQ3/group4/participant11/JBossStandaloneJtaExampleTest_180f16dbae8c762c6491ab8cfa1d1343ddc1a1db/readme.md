@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/180f16dbae8c762c6491ab8cfa1d1343ddc1a1db)
+Path : hibernate-orm/hibernate-infinispan/src/test/java/org/hibernate/test/cache/infinispan/tm/JBossStandaloneJtaExampleTest.java

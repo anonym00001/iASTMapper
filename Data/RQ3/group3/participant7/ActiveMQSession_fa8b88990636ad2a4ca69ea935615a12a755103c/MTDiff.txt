@@ -1,0 +1,4 @@
+**UPD**:VariableDeclarationStatement (LINE:-1064) => VariableDeclarationStatement (LINE:+1067),0
+**ADD**:VariableDeclarationStatement (LINE:+1064),0
+**UPD**:ReturnStatement (LINE:-1065) => ReturnStatement (LINE:+1068),0
+**ADD**:VariableDeclarationStatement (LINE:+1065),1

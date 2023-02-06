@@ -1,5 +1,0 @@
-**DEL**:VariableDeclarationStatement (LINE:-44),1
-**DEL**:ExpressionStatement (LINE:-45),1
-**DEL**:ExpressionStatement (LINE:-46),1
-**DEL**:ExpressionStatement (LINE:-47),1
-**UPD**:ReturnStatement (LINE:-48) => ReturnStatement (LINE:+44),1

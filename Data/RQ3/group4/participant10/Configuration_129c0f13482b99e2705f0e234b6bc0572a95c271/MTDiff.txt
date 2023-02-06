@@ -1,0 +1,16 @@
+**MOV**:Block (LINE:-333) => Block (LINE:+3100),0
+**ADD**:Block (LINE:+333),0
+**MOV**:ReturnStatement (LINE:-334) => ReturnStatement (LINE:+334),0
+**MOV**:ExpressionStatement (LINE:-1713) => ExpressionStatement (LINE:+1715),1
+**MOV**:Block (LINE:-2270) => Block (LINE:+3071),0
+**MOV**:ReturnStatement (LINE:-2271) => ReturnStatement (LINE:+2274),1
+**ADD**:Block (LINE:+2273),0
+**MOV**:Block (LINE:-2365) => Block (LINE:+1714),0
+**MOV**:ReturnStatement (LINE:-2366) => ReturnStatement (LINE:+2369),1
+**ADD**:Block (LINE:+2368),0
+**MOV**:Block (LINE:-2369) => Block (LINE:+3079),0
+**MOV**:ExpressionStatement (LINE:-2370) => ExpressionStatement (LINE:+2373),1
+**ADD**:Block (LINE:+2372),0
+**MOV**:ExpressionStatement (LINE:-3068) => ExpressionStatement (LINE:+3072),1
+**MOV**:ExpressionStatement (LINE:-3074) => ExpressionStatement (LINE:+3080),1
+**MOV**:ExpressionStatement (LINE:-3093) => ExpressionStatement (LINE:+3101),0

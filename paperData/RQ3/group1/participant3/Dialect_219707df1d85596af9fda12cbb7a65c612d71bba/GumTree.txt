@@ -1,9 +1,0 @@
-**ADD**:MethodDeclaration (LINE:+1499),1
-**ADD**:Block (LINE:+1499),1
-**ADD**:ThrowStatement (LINE:+1500),1
-**ADD**:MethodDeclaration (LINE:+1532),1
-**ADD**:Block (LINE:+1532),1
-**ADD**:ThrowStatement (LINE:+1533),1
-**ADD**:MethodDeclaration (LINE:+1550),1
-**ADD**:Block (LINE:+1550),1
-**ADD**:ThrowStatement (LINE:+1551),1

@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/eb0396b1c69e1cf069093df7774e60c0b609beb6)
+Path : hibernate-orm/entitymanager/src/main/java/org/hibernate/ejb/criteria/predicate/ComparisonPredicate.java

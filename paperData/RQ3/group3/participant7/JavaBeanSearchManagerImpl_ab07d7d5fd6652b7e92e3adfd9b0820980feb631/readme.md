@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-search/commit/ab07d7d5fd6652b7e92e3adfd9b0820980feb631)
-Path : hibernate-search/mapper/javabean/src/main/java/org/hibernate/search/mapper/javabean/session/impl/JavaBeanSearchManagerImpl.java

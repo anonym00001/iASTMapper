@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/0c5526f724551edb2d518d822521651172fe13f0)
+Path : hibernate-orm/hibernate-core/src/test/java/org/hibernate/test/annotations/access/xml/XmlAccessTest.java

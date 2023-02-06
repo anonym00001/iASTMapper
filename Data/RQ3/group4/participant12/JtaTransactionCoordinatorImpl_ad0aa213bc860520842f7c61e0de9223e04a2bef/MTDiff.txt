@@ -1,0 +1,12 @@
+**ADD**:ImportDeclaration (LINE:+22),1
+**UPD**:ExpressionStatement (LINE:-77) => ExpressionStatement (LINE:+78),0
+**UPD**:ExpressionStatement (LINE:-78) => ExpressionStatement (LINE:+79),0
+**UPD**:ExpressionStatement (LINE:-79) => ExpressionStatement (LINE:+80),0
+**UPD**:ExpressionStatement (LINE:-80) => ExpressionStatement (LINE:+82),0
+**UPD**:ExpressionStatement (LINE:-103) => ExpressionStatement (LINE:+105),0
+**UPD**:ExpressionStatement (LINE:-104) => ExpressionStatement (LINE:+106),0
+**UPD**:ExpressionStatement (LINE:-105) => ExpressionStatement (LINE:+107),0
+**E&U**:ExpressionStatement (LINE:-106) => ExpressionStatement (LINE:+112),1
+**ADD**:MethodDeclaration (LINE:+213),1
+**ADD**:Block (LINE:+214),1
+**ADD**:ReturnStatement (LINE:+215),1

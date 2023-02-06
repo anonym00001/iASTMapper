@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-search/commit/0235a45232d270812713e9686be85d41d38c2b80)
+Path : hibernate-search/hibernate-search/src/main/java/org/hibernate/search/query/engine/impl/QueryHits.java

@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-search/commit/ff7b931fed380e43a9c87b2d7ab533526610938f)
-Path : hibernate-search/mapper/pojo/src/main/java/org/hibernate/search/mapper/pojo/processing/impl/PojoIndexingProcessorTypeNode.java

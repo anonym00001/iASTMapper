@@ -1,7 +1,0 @@
-**ADD**:MethodDeclaration (LINE:+235),1
-**ADD**:Block (LINE:+235),1
-**ADD**:ExpressionStatement (LINE:+236),1
-**ADD**:MethodDeclaration (LINE:+238),1
-**ADD**:Block (LINE:+238),1
-**MOV**:TryStatement (LINE:-263) => TryStatement (LINE:+239),1
-**ADD**:ExpressionStatement (LINE:+276),1

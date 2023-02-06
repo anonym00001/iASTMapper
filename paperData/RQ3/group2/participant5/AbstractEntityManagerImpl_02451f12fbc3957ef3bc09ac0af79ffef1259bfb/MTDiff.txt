@@ -1,8 +1,0 @@
-**M&U**:IfStatement (LINE:-1123) => IfStatement (LINE:+1128),0
-**ADD**:IfStatement (LINE:+1123),1
-**ADD**:Block (LINE:+1123),1
-**ADD**:VariableDeclarationStatement (LINE:+1124),0
-**ADD**:ExpressionStatement (LINE:+1125),1
-**ADD**:ReturnStatement (LINE:+1126),0
-**UPD**:IfStatement (LINE:-1128) => IfStatement (LINE:+1133),0
-**UPD**:VariableDeclarationStatement (LINE:-1129) => VariableDeclarationStatement (LINE:+1134),0

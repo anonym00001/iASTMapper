@@ -1,4 +1,0 @@
-**UPD**:ImportDeclaration (LINE:-9) => ImportDeclaration (LINE:+15),0
-**ADD**:IfStatement (LINE:+79),1
-**ADD**:Block (LINE:+79),1
-**ADD**:ReturnStatement (LINE:+80),1

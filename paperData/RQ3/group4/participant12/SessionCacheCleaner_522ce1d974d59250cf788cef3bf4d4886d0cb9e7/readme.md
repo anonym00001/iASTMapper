@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/522ce1d974d59250cf788cef3bf4d4886d0cb9e7)
-Path : hibernate-orm/hibernate-envers/src/main/java/org/hibernate/envers/internal/synchronization/SessionCacheCleaner.java

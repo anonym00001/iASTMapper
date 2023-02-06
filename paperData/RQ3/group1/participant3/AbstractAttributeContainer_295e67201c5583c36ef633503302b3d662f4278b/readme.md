@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/295e67201c5583c36ef633503302b3d662f4278b)
-Path : hibernate-orm/hibernate-core/src/main/java/org/hibernate/metamodel/domain/AbstractAttributeContainer.java

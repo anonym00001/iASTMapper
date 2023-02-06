@@ -1,0 +1,4 @@
+**ADD**:ExpressionStatement (LINE:+200),1
+**UPD**:ExpressionStatement (LINE:-202) => ExpressionStatement (LINE:+205),1
+**EXC**:ExpressionStatement (LINE:-203) => ExpressionStatement (LINE:+204),0
+**ADD**:ExpressionStatement (LINE:+203),1

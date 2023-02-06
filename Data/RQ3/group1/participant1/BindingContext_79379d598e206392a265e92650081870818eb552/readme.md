@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/79379d598e206392a265e92650081870818eb552)
+Path : hibernate-orm/hibernate-core/src/main/java/org/hibernate/metamodel/spi/source/BindingContext.java

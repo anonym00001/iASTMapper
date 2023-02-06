@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/3d332371bd31841ee065b591b0e4f3e8cff1b3a2)
+Path : hibernate-orm/hibernate-core/src/test/java/org/hibernate/loader/plan/spi/LoadPlanBuilderTest.java

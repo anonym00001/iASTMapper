@@ -1,6 +1,0 @@
-**DEL**:MethodDeclaration (LINE:-46),0
-**DEL**:Block (LINE:-46),0
-**DEL**:ExpressionStatement (LINE:-47),1
-**ADD**:FieldDeclaration (LINE:+50),1
-**ADD**:MethodDeclaration (LINE:+52),0
-**ADD**:Block (LINE:+52),0

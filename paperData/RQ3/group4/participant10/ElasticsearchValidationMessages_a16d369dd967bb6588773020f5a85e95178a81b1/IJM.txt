@@ -1,9 +1,0 @@
-**DEL**:MethodDeclaration (LINE:-22),1
-**ADD**:MethodDeclaration (LINE:+22),1
-**UPD**:MethodDeclaration (LINE:-27) => MethodDeclaration (LINE:+27),1
-**UPD**:MethodDeclaration (LINE:-32) => MethodDeclaration (LINE:+32),1
-**UPD**:MethodDeclaration (LINE:-37) => MethodDeclaration (LINE:+37),1
-**UPD**:MethodDeclaration (LINE:-42) => MethodDeclaration (LINE:+42),1
-**UPD**:MethodDeclaration (LINE:-47) => MethodDeclaration (LINE:+47),1
-**UPD**:MethodDeclaration (LINE:-52) => MethodDeclaration (LINE:+52),1
-**UPD**:MethodDeclaration (LINE:-57) => MethodDeclaration (LINE:+57),1

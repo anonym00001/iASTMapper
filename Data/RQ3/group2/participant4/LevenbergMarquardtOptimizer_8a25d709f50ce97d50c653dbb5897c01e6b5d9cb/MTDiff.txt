@@ -1,0 +1,4 @@
+**UPD**:IfStatement (LINE:-483) => IfStatement (LINE:+483),1
+**DEL**:Block (LINE:-483),1
+**DEL**:IfStatement (LINE:-485),1
+**MOV**:Block (LINE:-485) => Block (LINE:+483),0

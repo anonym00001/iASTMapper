@@ -1,0 +1,10 @@
+**MOV**:Block (LINE:-377) => Block (LINE:+381),0
+**ADD**:Block (LINE:+377),0
+**ADD**:ReturnStatement (LINE:+378),1
+**UPD**:VariableDeclarationStatement (LINE:-381) => VariableDeclarationStatement (LINE:+385),1
+**ADD**:MethodDeclaration (LINE:+381),1
+**ADD**:IfStatement (LINE:+386),1
+**ADD**:Block (LINE:+386),1
+**ADD**:ExpressionStatement (LINE:+387),1
+**ADD**:Block (LINE:+388),1
+**ADD**:ExpressionStatement (LINE:+389),1

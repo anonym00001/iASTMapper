@@ -1,6 +1,0 @@
-**UPD**:IfStatement (LINE:-84) => IfStatement (LINE:+86),1
-**UPD**:ExpressionStatement (LINE:-86) => ExpressionStatement (LINE:+88),1
-**MOV**:Block (LINE:-87) => Block (LINE:+93),1
-**ADD**:IfStatement (LINE:+90),1
-**ADD**:Block (LINE:+91),1
-**ADD**:ExpressionStatement (LINE:+92),1

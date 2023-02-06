@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/2c968538a542fd5f6c705745f235be118c07370a)
-Path : hibernate-orm/hibernate-core/src/main/java/org/hibernate/hql/internal/ast/ASTQueryTranslatorFactory.java

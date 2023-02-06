@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/e5f6d52012bf09c3cc0811f48a5acbdff442334c)
+Path : hibernate-orm/core/src/main/java/org/hibernate/tuple/component/PojoComponentTuplizer.java

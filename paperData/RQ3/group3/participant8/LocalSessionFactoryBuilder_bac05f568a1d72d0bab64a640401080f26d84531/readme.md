@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/spring-projects/spring-framework/commit/bac05f568a1d72d0bab64a640401080f26d84531)
-Path : spring-framework/org.springframework.orm/src/main/java/org/springframework/orm/hibernate4/LocalSessionFactoryBuilder.java

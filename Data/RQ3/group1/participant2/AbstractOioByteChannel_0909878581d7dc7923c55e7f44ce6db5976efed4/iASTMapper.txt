@@ -1,0 +1,14 @@
+**DEL**:MethodDeclaration (LINE:-44),1
+**DEL**:Block (LINE:-45),1
+**DEL**:ReturnStatement (LINE:-46),1
+**DEL**:TypeDeclaration (LINE:-49),1
+**M&U**:MethodDeclaration (LINE:-50) => MethodDeclaration (LINE:+44),1
+**DEL**:AssertStatement (LINE:-52),1
+**ADD**:VariableDeclarationStatement (LINE:+59),1
+**ADD**:ExpressionStatement (LINE:+104),1
+**ADD**:ExpressionStatement (LINE:+105),1
+**UPD**:ExpressionStatement (LINE:-113) => ExpressionStatement (LINE:+108),1
+**ADD**:IfStatement (LINE:+114),1
+**ADD**:Block (LINE:+114),1
+**ADD**:ExpressionStatement (LINE:+115),1
+**UPD**:ExpressionStatement (LINE:-125) => ExpressionStatement (LINE:+123),1

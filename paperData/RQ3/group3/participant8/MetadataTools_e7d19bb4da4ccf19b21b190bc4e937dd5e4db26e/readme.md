@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/e7d19bb4da4ccf19b21b190bc4e937dd5e4db26e)
-Path : hibernate-orm/hibernate-envers/src/main/java/org/hibernate/envers/configuration/metadata/MetadataTools.java

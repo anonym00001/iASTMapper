@@ -1,0 +1,4 @@
+**ADD**:VariableDeclarationStatement (LINE:+1237),1
+**MOV**:ThrowStatement (LINE:-1237) => ThrowStatement (LINE:+1240),1
+**ADD**:IfStatement (LINE:+1238),1
+**ADD**:Block (LINE:+1238),1

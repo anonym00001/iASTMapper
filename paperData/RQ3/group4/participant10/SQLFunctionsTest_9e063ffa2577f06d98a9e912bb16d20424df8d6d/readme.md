@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/9e063ffa2577f06d98a9e912bb16d20424df8d6d)
-Path : hibernate-orm/hibernate-core/src/test/java/org/hibernate/test/legacy/SQLFunctionsTest.java

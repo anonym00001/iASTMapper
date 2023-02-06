@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/netty/netty/commit/a45f9d7939e0e121011e09526015c2719007a6f5)
-Path : netty/codec-http/src/main/java/io/netty/handler/codec/http/multipart/HttpPostMultipartRequestDecoder.java

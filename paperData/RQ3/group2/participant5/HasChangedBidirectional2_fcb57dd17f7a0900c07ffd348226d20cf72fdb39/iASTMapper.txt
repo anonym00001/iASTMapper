@@ -1,8 +1,0 @@
-**UPD**:ImportDeclaration (LINE:-32) => ImportDeclaration (LINE:+36),1
-**ADD**:ImportDeclaration (LINE:+37),1
-**DEL**:FieldDeclaration (LINE:-48),1
-**DEL**:FieldDeclaration (LINE:-49),1
-**DEL**:ExpressionStatement (LINE:-115),1
-**DEL**:ExpressionStatement (LINE:-116),1
-**UPD**:ExpressionStatement (LINE:-124) => ExpressionStatement (LINE:+118),1
-**UPD**:ExpressionStatement (LINE:-129) => ExpressionStatement (LINE:+123),1

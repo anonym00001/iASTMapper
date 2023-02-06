@@ -1,0 +1,9 @@
+**ADD**:ImportDeclaration (LINE:+23),1
+**UPD**:ExpressionStatement (LINE:-34) => ExpressionStatement (LINE:+35),1
+**UPD**:ExpressionStatement (LINE:-35) => ExpressionStatement (LINE:+36),1
+**ADD**:TryStatement (LINE:+41),1
+**ADD**:Block (LINE:+41),1
+**MOV**:ExpressionStatement (LINE:-41) => ExpressionStatement (LINE:+42),1
+**ADD**:CatchClause (LINE:+44),1
+**ADD**:Block (LINE:+44),1
+**ADD**:ThrowStatement (LINE:+45),1

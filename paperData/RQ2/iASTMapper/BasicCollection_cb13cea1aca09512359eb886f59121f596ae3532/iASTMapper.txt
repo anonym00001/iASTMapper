@@ -1,8 +1,0 @@
-**DEL**:ImportDeclaration (LINE:-34),1
-**ADD**:MethodDeclaration (LINE:+49),1
-**DEL**:MethodDeclaration (LINE:-50),1
-**DEL**:Block (LINE:-50),1
-**ADD**:Block (LINE:+50),1
-**DEL**:ExpressionStatement (LINE:-51),1
-**ADD**:ReturnStatement (LINE:+51),1
-**DEL**:ExpressionStatement (LINE:-52),1

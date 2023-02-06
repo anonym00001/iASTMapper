@@ -1,8 +1,0 @@
-**ADD**:ImportDeclaration (LINE:+42),1
-**ADD**:VariableDeclarationStatement (LINE:+157),1
-**ADD**:IfStatement (LINE:+158),1
-**ADD**:Block (LINE:+158),1
-**ADD**:ExpressionStatement (LINE:+159),1
-**ADD**:Block (LINE:+161),1
-**ADD**:ExpressionStatement (LINE:+162),1
-**UPD**:ExpressionStatement (LINE:-165) => ExpressionStatement (LINE:+174),1

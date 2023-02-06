@@ -1,6 +1,0 @@
-**UPD**:IfStatement (LINE:-483) => IfStatement (LINE:+483),1
-**DEL**:IfStatement (LINE:-485),1
-**DEL**:Block (LINE:-485),0
-**MOV**:ExpressionStatement (LINE:-486) => ExpressionStatement (LINE:+484),1
-**MOV**:ExpressionStatement (LINE:-488) => ExpressionStatement (LINE:+486),1
-**MOV**:ReturnStatement (LINE:-489) => ReturnStatement (LINE:+487),1

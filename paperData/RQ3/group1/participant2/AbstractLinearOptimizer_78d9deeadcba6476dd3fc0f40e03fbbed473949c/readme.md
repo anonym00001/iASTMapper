@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/apache/commons-math/commit/78d9deeadcba6476dd3fc0f40e03fbbed473949c)
-Path : commons-math/src/main/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java

@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/apache/activemq/commit/d3c5e8188d0e6ab693be4ff681c143b0bdcd7828)
+Path : activemq/activemq-broker/src/main/java/org/apache/activemq/security/SimpleCachedLDAPAuthorizationMap.java

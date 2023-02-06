@@ -1,0 +1,16 @@
+**M&U**:VariableDeclarationStatement (LINE:-263) => VariableDeclarationStatement (LINE:+373),0
+**ADD**:VariableDeclarationStatement (LINE:+263),0
+**MOV**:IfStatement (LINE:-284) => IfStatement (LINE:+400),1
+**UPD**:ThrowStatement (LINE:-285) => ThrowStatement (LINE:+401),1
+**M&U**:ExpressionStatement (LINE:-367) => ExpressionStatement (LINE:+286),0
+**M&U**:IfStatement (LINE:-369) => IfStatement (LINE:+287),0
+**M&U**:VariableDeclarationStatement (LINE:-370) => VariableDeclarationStatement (LINE:+397),0
+**ADD**:ExpressionStatement (LINE:+370),0
+**M&U**:ExpressionStatement (LINE:-371) => ExpressionStatement (LINE:+399),0
+**ADD**:IfStatement (LINE:+372),0
+**ADD**:Block (LINE:+372),0
+**ADD**:ExpressionStatement (LINE:+374),0
+**M&U**:VariableDeclarationStatement (LINE:-386) => VariableDeclarationStatement (LINE:+284),0
+**ADD**:VariableDeclarationStatement (LINE:+389),0
+**UPD**:IfStatement (LINE:-393) => IfStatement (LINE:+396),1
+**M&U**:ThrowStatement (LINE:-394) => ThrowStatement (LINE:+288),0

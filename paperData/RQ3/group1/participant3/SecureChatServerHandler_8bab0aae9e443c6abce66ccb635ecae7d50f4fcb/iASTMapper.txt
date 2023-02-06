@@ -1,9 +1,0 @@
-**ADD**:ImportDeclaration (LINE:+19),1
-**ADD**:ImportDeclaration (LINE:+20),1
-**UPD**:MethodDeclaration (LINE:-39) => MethodDeclaration (LINE:+41),1
-**MOV**:ExpressionStatement (LINE:-42) => ExpressionStatement (LINE:+48),1
-**ADD**:ExpressionStatement (LINE:+45),1
-**MOV**:ExpressionStatement (LINE:-45) => ExpressionStatement (LINE:+51),1
-**ADD**:MethodDeclaration (LINE:+46),1
-**ADD**:Block (LINE:+47),1
-**MOV**:ExpressionStatement (LINE:-52) => ExpressionStatement (LINE:+56),1

@@ -1,0 +1,10 @@
+**ADD**:ImportDeclaration (LINE:+21),1
+**ADD**:ImportDeclaration (LINE:+22),1
+**ADD**:MethodDeclaration (LINE:+57),1
+**ADD**:Block (LINE:+57),1
+**ADD**:TryStatement (LINE:+58),1
+**ADD**:Block (LINE:+58),1
+**ADD**:ReturnStatement (LINE:+59),1
+**ADD**:CatchClause (LINE:+63),1
+**ADD**:Block (LINE:+63),1
+**ADD**:ThrowStatement (LINE:+64),1

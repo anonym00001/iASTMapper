@@ -1,0 +1,8 @@
+**DEL**:ImportDeclaration (LINE:-22),1
+**UPD**:VariableDeclarationStatement (LINE:-31) => VariableDeclarationStatement (LINE:+29),1
+**UPD**:MethodDeclaration (LINE:-38) => MethodDeclaration (LINE:+44),0
+**UPD**:VariableDeclarationStatement (LINE:-39) => VariableDeclarationStatement (LINE:+45),0
+**MOV**:ExpressionStatement (LINE:-43) => ExpressionStatement (LINE:+41),0
+**UPD**:MethodDeclaration (LINE:-46) => MethodDeclaration (LINE:+36),0
+**UPD**:VariableDeclarationStatement (LINE:-47) => VariableDeclarationStatement (LINE:+37),0
+**MOV**:ExpressionStatement (LINE:-51) => ExpressionStatement (LINE:+49),0

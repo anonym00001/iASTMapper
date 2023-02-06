@@ -1,0 +1,11 @@
+**DEL**:ImportDeclaration (LINE:-9),1
+**ADD**:ImportDeclaration (LINE:+9),1
+**DEL**:ImportDeclaration (LINE:-10),1
+**DEL**:ImportDeclaration (LINE:-11),0
+**UPD**:ImportDeclaration (LINE:-18) => ImportDeclaration (LINE:+17),0
+**UPD**:ImportDeclaration (LINE:-19) => ImportDeclaration (LINE:+18),0
+**ADD**:ImportDeclaration (LINE:+19),1
+**DEL**:ImportDeclaration (LINE:-20),1
+**ADD**:ImportDeclaration (LINE:+20),1
+**ADD**:ImportDeclaration (LINE:+21),1
+**UPD**:IfStatement (LINE:-113) => IfStatement (LINE:+114),1

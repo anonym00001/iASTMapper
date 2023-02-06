@@ -1,8 +1,0 @@
-**UPD**:MethodDeclaration (LINE:-97) => MethodDeclaration (LINE:+1154),0
-**ADD**:MethodDeclaration (LINE:+97),0
-**ADD**:Block (LINE:+98),0
-**MOV**:IfStatement (LINE:-99) => IfStatement (LINE:+99),0
-**ADD**:ExpressionStatement (LINE:+104),1
-**ADD**:ReturnStatement (LINE:+105),1
-**DEL**:ReturnStatement (LINE:-106),1
-**UPD**:MethodDeclaration (LINE:-1155) => MethodDeclaration (LINE:+1159),1

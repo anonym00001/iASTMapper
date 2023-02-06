@@ -1,4 +1,0 @@
-**DEL**:MethodDeclaration (LINE:-41),0
-**MOV**:Block (LINE:-41) => Block (LINE:+41),0
-**ADD**:MethodDeclaration (LINE:+41),1
-**UPD**:ReturnStatement (LINE:-113) => ReturnStatement (LINE:+113),1

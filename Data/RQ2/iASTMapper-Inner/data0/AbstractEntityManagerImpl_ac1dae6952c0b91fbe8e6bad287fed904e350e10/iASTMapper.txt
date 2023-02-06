@@ -1,0 +1,18 @@
+**ADD**:ImportDeclaration (LINE:+38),1
+**DEL**:IfStatement (LINE:-898),0
+**DEL**:Block (LINE:-898),0
+**DEL**:ReturnStatement (LINE:-899),0
+**DEL**:IfStatement (LINE:-901),0
+**DEL**:Block (LINE:-901),0
+**DEL**:ReturnStatement (LINE:-902),0
+**DEL**:Block (LINE:-904),1
+**ADD**:IfStatement (LINE:+899),0
+**ADD**:Block (LINE:+899),0
+**ADD**:ReturnStatement (LINE:+900),0
+**ADD**:IfStatement (LINE:+902),0
+**ADD**:Block (LINE:+902),0
+**ADD**:ReturnStatement (LINE:+903),0
+**ADD**:IfStatement (LINE:+905),1
+**ADD**:Block (LINE:+905),1
+**ADD**:ReturnStatement (LINE:+906),1
+**MOV**:ThrowStatement (LINE:-906) => ThrowStatement (LINE:+908),1

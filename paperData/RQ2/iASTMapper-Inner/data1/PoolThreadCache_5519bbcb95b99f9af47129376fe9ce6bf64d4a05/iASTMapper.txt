@@ -1,7 +1,0 @@
-**ADD**:VariableDeclarationStatement (LINE:+402),1
-**UPD**:VariableDeclarationStatement (LINE:-399) => VariableDeclarationStatement (LINE:+403),1
-**DEL**:ExpressionStatement (LINE:-411),0
-**ADD**:ExpressionStatement (LINE:+415),0
-**ADD**:MethodDeclaration (LINE:+488),1
-**ADD**:Block (LINE:+488),1
-**ADD**:ReturnStatement (LINE:+490),1

@@ -1,2 +1,0 @@
-**UPD**:ForStatement (LINE:-88) => ForStatement (LINE:+89),1
-**ADD**:VariableDeclarationStatement (LINE:+88),1

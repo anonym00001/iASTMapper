@@ -1,0 +1,15 @@
+**DEL**:ImportDeclaration (LINE:-38),0
+**ADD**:ImportDeclaration (LINE:+39),0
+**ADD**:ImportDeclaration (LINE:+40),1
+**DEL**:FieldDeclaration (LINE:-50),0
+**ADD**:FieldDeclaration (LINE:+52),0
+**UPD**:MethodDeclaration (LINE:-52) => MethodDeclaration (LINE:+54),1
+**DEL**:ExpressionStatement (LINE:-53),0
+**ADD**:ExpressionStatement (LINE:+56),0
+**UPD**:MethodDeclaration (LINE:-56) => MethodDeclaration (LINE:+59),1
+**DEL**:IfStatement (LINE:-57),0
+**DEL**:Block (LINE:-57),0
+**ADD**:IfStatement (LINE:+61),0
+**ADD**:Block (LINE:+61),0
+**M&U**:ExpressionStatement (LINE:-58) => ExpressionStatement (LINE:+62),0
+**UPD**:ReturnStatement (LINE:-184) => ReturnStatement (LINE:+188),1

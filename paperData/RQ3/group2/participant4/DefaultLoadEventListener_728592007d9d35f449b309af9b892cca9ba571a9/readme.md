@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/728592007d9d35f449b309af9b892cca9ba571a9)
-Path : hibernate-orm/hibernate-core/src/main/java/org/hibernate/event/internal/DefaultLoadEventListener.java

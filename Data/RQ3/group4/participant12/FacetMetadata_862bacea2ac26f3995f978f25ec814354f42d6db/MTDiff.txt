@@ -1,0 +1,10 @@
+**M&U**:FieldDeclaration (LINE:-18) => FieldDeclaration (LINE:+57),1
+**ADD**:FieldDeclaration (LINE:+18),1
+**ADD**:FieldDeclaration (LINE:+20),1
+**ADD**:ExpressionStatement (LINE:+25),1
+**ADD**:MethodDeclaration (LINE:+33),1
+**ADD**:Block (LINE:+33),1
+**ADD**:ReturnStatement (LINE:+34),1
+**UPD**:MethodDeclaration (LINE:-52) => MethodDeclaration (LINE:+63),1
+**ADD**:ExpressionStatement (LINE:+65),1
+**UPD**:ReturnStatement (LINE:-67) => ReturnStatement (LINE:+80),1

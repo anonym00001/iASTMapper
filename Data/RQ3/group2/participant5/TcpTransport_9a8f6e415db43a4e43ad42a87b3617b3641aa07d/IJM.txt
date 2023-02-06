@@ -1,0 +1,25 @@
+**DEL**:ImportDeclaration (LINE:-23),1
+**DEL**:ImportDeclaration (LINE:-24),1
+**DEL**:ImportDeclaration (LINE:-25),1
+**DEL**:ImportDeclaration (LINE:-26),1
+**DEL**:ImportDeclaration (LINE:-27),1
+**DEL**:ImportDeclaration (LINE:-28),1
+**DEL**:ImportDeclaration (LINE:-29),1
+**DEL**:ImportDeclaration (LINE:-30),1
+**DEL**:ImportDeclaration (LINE:-31),1
+**ADD**:ImportDeclaration (LINE:+31),1
+**DEL**:ImportDeclaration (LINE:-32),1
+**DEL**:ImportDeclaration (LINE:-33),1
+**DEL**:ImportDeclaration (LINE:-34),1
+**DEL**:ImportDeclaration (LINE:-35),1
+**ADD**:ImportDeclaration (LINE:+36),1
+**DEL**:ImportDeclaration (LINE:-37),1
+**ADD**:ImportDeclaration (LINE:+37),1
+**ADD**:ImportDeclaration (LINE:+38),1
+**ADD**:ImportDeclaration (LINE:+39),1
+**UPD**:ImportDeclaration (LINE:-40) => ImportDeclaration (LINE:+20),0
+**ADD**:ImportDeclaration (LINE:+40),1
+**UPD**:ImportDeclaration (LINE:-41) => ImportDeclaration (LINE:+21),1
+**ADD**:ImportDeclaration (LINE:+41),1
+**UPD**:ImportDeclaration (LINE:-42) => ImportDeclaration (LINE:+22),1
+**UPD**:FieldDeclaration (LINE:-102) => FieldDeclaration (LINE:+94),1

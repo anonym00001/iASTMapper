@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-search/commit/73c8632c534441cf16517027097425b76bc1d952)
+Path : hibernate-search/backend/lucene/src/main/java/org/hibernate/search/backend/lucene/search/predicate/impl/AbstractLuceneRangePredicateBuilder.java

@@ -1,0 +1,5 @@
+**ADD**:ImportDeclaration (LINE:+39),1
+**DEL**:ExpressionStatement (LINE:-201),1
+**UPD**:ExpressionStatement (LINE:-202) => ExpressionStatement (LINE:+202),0
+**UPD**:ExpressionStatement (LINE:-203) => ExpressionStatement (LINE:+203),0
+**UPD**:ExpressionStatement (LINE:-204) => ExpressionStatement (LINE:+204),1

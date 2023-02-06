@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/netty/netty/commit/4ce994dd4fe58a03fa25b0911e5b3a2079b33692)
-Path : netty/codec-http/src/test/java/io/netty/handler/codec/http/websocketx/WebSocketServerHandshaker00Test.java

@@ -1,0 +1,50 @@
+**DEL**:Block (LINE:-855),0
+**DEL**:TryStatement (LINE:-856),0
+**DEL**:Block (LINE:-856),0
+**ADD**:Block (LINE:+855),0
+**ADD**:TryStatement (LINE:+856),0
+**ADD**:Block (LINE:+856),0
+**MOV**:ExpressionStatement (LINE:-857) => ExpressionStatement (LINE:+857),0
+**DEL**:CatchClause (LINE:-858),0
+**DEL**:Block (LINE:-858),0
+**DEL**:ThrowStatement (LINE:-859),0
+**ADD**:CatchClause (LINE:+858),0
+**ADD**:Block (LINE:+858),0
+**ADD**:ThrowStatement (LINE:+859),0
+**DEL**:Block (LINE:-862),0
+**ADD**:Block (LINE:+862),0
+**MOV**:VariableDeclarationStatement (LINE:-863) => VariableDeclarationStatement (LINE:+863),0
+**MOV**:VariableDeclarationStatement (LINE:-864) => VariableDeclarationStatement (LINE:+864),0
+**MOV**:VariableDeclarationStatement (LINE:-865) => VariableDeclarationStatement (LINE:+865),0
+**M&U**:IfStatement (LINE:-866) => IfStatement (LINE:+877),1
+**DEL**:Block (LINE:-866),0
+**DEL**:ThrowStatement (LINE:-867),1
+**MOV**:VariableDeclarationStatement (LINE:-869) => VariableDeclarationStatement (LINE:+866),0
+**MOV**:VariableDeclarationStatement (LINE:-870) => VariableDeclarationStatement (LINE:+867),0
+**MOV**:TryStatement (LINE:-871) => TryStatement (LINE:+868),0
+**DEL**:TryStatement (LINE:-878),0
+**DEL**:Block (LINE:-878),0
+**ADD**:TryStatement (LINE:+875),0
+**ADD**:Block (LINE:+875),0
+**ADD**:VariableDeclarationStatement (LINE:+876),1
+**ADD**:Block (LINE:+877),0
+**ADD**:ExpressionStatement (LINE:+878),1
+**ADD**:Block (LINE:+879),1
+**ADD**:ExpressionStatement (LINE:+880),1
+**M&U**:ExpressionStatement (LINE:-879) => ExpressionStatement (LINE:+882),0
+**MOV**:CatchClause (LINE:-883) => CatchClause (LINE:+886),0
+**DEL**:Block (LINE:-883),0
+**DEL**:ThrowStatement (LINE:-884),0
+**ADD**:Block (LINE:+886),0
+**ADD**:ThrowStatement (LINE:+887),0
+**MOV**:CatchClause (LINE:-885) => CatchClause (LINE:+888),0
+**DEL**:Block (LINE:-885),0
+**DEL**:ThrowStatement (LINE:-886),0
+**DEL**:CatchClause (LINE:-887),0
+**DEL**:Block (LINE:-887),0
+**DEL**:ThrowStatement (LINE:-888),0
+**ADD**:Block (LINE:+888),0
+**ADD**:ThrowStatement (LINE:+889),0
+**ADD**:CatchClause (LINE:+890),0
+**ADD**:Block (LINE:+890),0
+**ADD**:ThrowStatement (LINE:+891),0

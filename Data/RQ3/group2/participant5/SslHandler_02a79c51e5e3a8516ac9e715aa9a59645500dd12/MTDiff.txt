@@ -1,0 +1,10 @@
+**UPD**:IfStatement (LINE:-436) => IfStatement (LINE:+440),1
+**ADD**:IfStatement (LINE:+436),0
+**UPD**:ExpressionStatement (LINE:-437) => ExpressionStatement (LINE:+442),0
+**ADD**:ExpressionStatement (LINE:+437),1
+**ADD**:ContinueStatement (LINE:+443),1
+**MOV**:Block (LINE:-483) => Block (LINE:+436),0
+**M&U**:ExpressionStatement (LINE:-484) => ExpressionStatement (LINE:+441),1
+**MOV**:ThrowStatement (LINE:-485) => ThrowStatement (LINE:+491),1
+**ADD**:Block (LINE:+489),1
+**ADD**:ExpressionStatement (LINE:+490),0

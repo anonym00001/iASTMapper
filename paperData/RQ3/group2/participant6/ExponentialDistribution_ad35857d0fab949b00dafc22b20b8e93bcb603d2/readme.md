@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/apache/commons-math/commit/ad35857d0fab949b00dafc22b20b8e93bcb603d2)
-Path : commons-math/src/main/java/org/apache/commons/math3/distribution/ExponentialDistribution.java

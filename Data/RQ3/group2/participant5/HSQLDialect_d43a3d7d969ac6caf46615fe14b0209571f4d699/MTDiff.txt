@@ -1,0 +1,8 @@
+**DEL**:MethodDeclaration (LINE:-205),0
+**DEL**:Block (LINE:-205),0
+**DEL**:ReturnStatement (LINE:-206),0
+**UPD**:MethodDeclaration (LINE:-209) => MethodDeclaration (LINE:+205),0
+**UPD**:ReturnStatement (LINE:-210) => ReturnStatement (LINE:+206),0
+**UPD**:MethodDeclaration (LINE:-217) => MethodDeclaration (LINE:+209),1
+**UPD**:ReturnStatement (LINE:-218) => ReturnStatement (LINE:+210),1
+**UPD**:ReturnStatement (LINE:-229) => ReturnStatement (LINE:+218),1

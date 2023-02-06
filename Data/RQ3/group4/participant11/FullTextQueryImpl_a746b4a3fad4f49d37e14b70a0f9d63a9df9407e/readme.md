@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-search/commit/a746b4a3fad4f49d37e14b70a0f9d63a9df9407e)
+Path : hibernate-search/mapper/orm/src/main/java/org/hibernate/search/mapper/orm/impl/FullTextQueryImpl.java

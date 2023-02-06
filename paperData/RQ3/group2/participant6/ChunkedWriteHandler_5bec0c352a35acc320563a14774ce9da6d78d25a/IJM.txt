@@ -1,5 +1,0 @@
-**DEL**:VariableDeclarationStatement (LINE:-205),1
-**DEL**:ExpressionStatement (LINE:-214),1
-**DEL**:IfStatement (LINE:-309),1
-**DEL**:Block (LINE:-309),1
-**MOV**:ExpressionStatement (LINE:-310) => ExpressionStatement (LINE:+308),1

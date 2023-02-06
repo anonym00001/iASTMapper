@@ -1,6 +1,0 @@
-**ADD**:MethodDeclaration (LINE:+173),1
-**ADD**:Block (LINE:+174),1
-**MOV**:IfStatement (LINE:-175) => IfStatement (LINE:+175),1
-**MOV**:IfStatement (LINE:-180) => IfStatement (LINE:+181),1
-**MOV**:ExpressionStatement (LINE:-183) => ExpressionStatement (LINE:+184),1
-**MOV**:ExpressionStatement (LINE:-184) => ExpressionStatement (LINE:+185),1

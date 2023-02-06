@@ -1,3 +1,0 @@
-**UPD**:TypeDeclaration (LINE:-35) => TypeDeclaration (LINE:+35),1
-**UPD**:MethodDeclaration (LINE:-36) => MethodDeclaration (LINE:+43),1
-**UPD**:MethodDeclaration (LINE:-37) => MethodDeclaration (LINE:+52),1

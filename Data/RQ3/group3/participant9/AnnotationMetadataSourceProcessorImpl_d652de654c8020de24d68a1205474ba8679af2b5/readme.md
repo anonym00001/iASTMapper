@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/d652de654c8020de24d68a1205474ba8679af2b5)
+Path : hibernate-orm/hibernate-core/src/main/java/org/hibernate/metamodel/source/annotations/AnnotationMetadataSourceProcessorImpl.java

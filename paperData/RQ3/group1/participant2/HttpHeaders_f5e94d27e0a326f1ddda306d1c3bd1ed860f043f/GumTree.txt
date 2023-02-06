@@ -1,8 +1,0 @@
-**ADD**:FieldDeclaration (LINE:+339),1
-**ADD**:FieldDeclaration (LINE:+343),1
-**ADD**:FieldDeclaration (LINE:+347),1
-**ADD**:FieldDeclaration (LINE:+351),1
-**ADD**:FieldDeclaration (LINE:+355),1
-**ADD**:FieldDeclaration (LINE:+359),1
-**ADD**:FieldDeclaration (LINE:+367),1
-**ADD**:FieldDeclaration (LINE:+371),1

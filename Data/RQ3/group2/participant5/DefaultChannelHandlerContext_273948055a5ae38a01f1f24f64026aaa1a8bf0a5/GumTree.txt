@@ -1,0 +1,20 @@
+**MOV**:Block (LINE:-902) => Block (LINE:+904),0
+**MOV**:VariableDeclarationStatement (LINE:-903) => VariableDeclarationStatement (LINE:+903),0
+**UPD**:IfStatement (LINE:-904) => IfStatement (LINE:+907),0
+**MOV**:Block (LINE:-904) => Block (LINE:+902),0
+**MOV**:ExpressionStatement (LINE:-905) => ExpressionStatement (LINE:+905),0
+**UPD**:IfStatement (LINE:-907) => IfStatement (LINE:+904),0
+**MOV**:Block (LINE:-907) => Block (LINE:+907),0
+**MOV**:Block (LINE:-909) => Block (LINE:+909),0
+**UPD**:IfStatement (LINE:-915) => IfStatement (LINE:+915),1
+**MOV**:Block (LINE:-915) => Block (LINE:+919),0
+**ADD**:Block (LINE:+915),0
+**ADD**:ReturnStatement (LINE:+916),1
+**ADD**:IfStatement (LINE:+919),1
+**ADD**:Block (LINE:+921),1
+**ADD**:ExpressionStatement (LINE:+923),1
+**MOV**:Block (LINE:-970) => Block (LINE:+978),1
+**ADD**:Block (LINE:+977),1
+**ADD**:IfStatement (LINE:+978),1
+**ADD**:Block (LINE:+980),1
+**ADD**:ExpressionStatement (LINE:+982),1

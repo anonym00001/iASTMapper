@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/056024a8b66257edc4e1696c2c14776ac0379b92)
+Path : hibernate-orm/hibernate-core/src/main/java/org/hibernate/metamodel/internal/source/annotations/xml/mocker/ManyToOneMocker.java

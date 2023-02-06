@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-search/commit/83fdb490bb641fc30732954bbf17e92226461fba)
+Path : hibernate-search/mapper/pojo/src/main/java/org/hibernate/search/mapper/pojo/bridge/spi/FunctionBridge.java

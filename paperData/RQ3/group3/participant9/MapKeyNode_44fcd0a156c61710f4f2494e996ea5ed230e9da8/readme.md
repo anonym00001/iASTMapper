@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/44fcd0a156c61710f4f2494e996ea5ed230e9da8)
-Path : hibernate-orm/hibernate-core/src/main/java/org/hibernate/hql/internal/ast/tree/MapKeyNode.java

@@ -1,2 +1,0 @@
-**UPD**:ExpressionStatement (LINE:-906) => ExpressionStatement (LINE:+907),0
-**ADD**:VariableDeclarationStatement (LINE:+906),1

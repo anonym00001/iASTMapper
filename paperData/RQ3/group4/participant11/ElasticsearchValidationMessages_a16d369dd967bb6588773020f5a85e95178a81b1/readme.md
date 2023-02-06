@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-search/commit/a16d369dd967bb6588773020f5a85e95178a81b1)
-Path : hibernate-search/elasticsearch/src/main/java/org/hibernate/search/elasticsearch/schema/impl/ElasticsearchValidationMessages.java

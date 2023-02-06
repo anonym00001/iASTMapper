@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/fbe72e7b641fba2c95ce0b8867e080fb7e52613d)
+Path : hibernate-orm/hibernate-core/src/main/java/org/hibernate/engine/query/spi/QueryPlanCache.java

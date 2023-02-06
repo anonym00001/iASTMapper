@@ -1,5 +1,0 @@
-**ADD**:ImportDeclaration (LINE:+80),1
-**ADD**:VariableDeclarationStatement (LINE:+610),1
-**ADD**:ExpressionStatement (LINE:+614),1
-**ADD**:VariableDeclarationStatement (LINE:+633),1
-**ADD**:ExpressionStatement (LINE:+634),1

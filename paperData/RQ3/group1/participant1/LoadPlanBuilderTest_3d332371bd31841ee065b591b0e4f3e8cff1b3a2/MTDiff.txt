@@ -1,6 +1,0 @@
-**UPD**:ExpressionStatement (LINE:-122) => ExpressionStatement (LINE:+122),1
-**UPD**:ExpressionStatement (LINE:-123) => ExpressionStatement (LINE:+123),0
-**UPD**:VariableDeclarationStatement (LINE:-124) => VariableDeclarationStatement (LINE:+124),1
-**UPD**:FieldDeclaration (LINE:-132) => FieldDeclaration (LINE:+132),1
-**UPD**:FieldDeclaration (LINE:-134) => FieldDeclaration (LINE:+134),1
-**UPD**:FieldDeclaration (LINE:-142) => FieldDeclaration (LINE:+142),1

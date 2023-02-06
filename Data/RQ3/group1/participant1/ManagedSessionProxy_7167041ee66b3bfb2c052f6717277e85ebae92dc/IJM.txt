@@ -1,0 +1,10 @@
+**ADD**:FieldDeclaration (LINE:+58),1
+**UPD**:MethodDeclaration (LINE:-59) => MethodDeclaration (LINE:+60),1
+**ADD**:ExpressionStatement (LINE:+62),1
+**DEL**:Block (LINE:-72),0
+**MOV**:ExpressionStatement (LINE:-73) => ExpressionStatement (LINE:+78),1
+**ADD**:Block (LINE:+74),1
+**ADD**:IfStatement (LINE:+75),1
+**ADD**:Block (LINE:+75),1
+**ADD**:ReturnStatement (LINE:+76),1
+**ADD**:ExpressionStatement (LINE:+79),1

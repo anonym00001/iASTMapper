@@ -1,0 +1,10 @@
+**ADD**:ImportDeclaration (LINE:+22),1
+**UPD**:VariableDeclarationStatement (LINE:-103) => VariableDeclarationStatement (LINE:+104),1
+**MOV**:ReturnStatement (LINE:-149) => ReturnStatement (LINE:+150),1
+**ADD**:Block (LINE:+149),1
+**MOV**:ReturnStatement (LINE:-176) => ReturnStatement (LINE:+178),1
+**ADD**:Block (LINE:+177),1
+**MOV**:ReturnStatement (LINE:-183) => ReturnStatement (LINE:+186),1
+**ADD**:Block (LINE:+185),1
+**MOV**:ReturnStatement (LINE:-194) => ReturnStatement (LINE:+198),1
+**ADD**:Block (LINE:+197),1

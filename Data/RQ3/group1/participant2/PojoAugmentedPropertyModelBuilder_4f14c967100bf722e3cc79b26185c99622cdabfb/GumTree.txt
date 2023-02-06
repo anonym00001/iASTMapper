@@ -1,0 +1,11 @@
+**ADD**:ImportDeclaration (LINE:+16),1
+**ADD**:ImportDeclaration (LINE:+18),1
+**ADD**:FieldDeclaration (LINE:+21),1
+**ADD**:MethodDeclaration (LINE:+24),1
+**ADD**:Block (LINE:+25),1
+**ADD**:ReturnStatement (LINE:+26),1
+**UPD**:ReturnStatement (LINE:-37) => ReturnStatement (LINE:+53),1
+**ADD**:VariableDeclarationStatement (LINE:+48),1
+**ADD**:EnhancedForStatement (LINE:+49),1
+**ADD**:Block (LINE:+49),1
+**ADD**:ExpressionStatement (LINE:+50),1

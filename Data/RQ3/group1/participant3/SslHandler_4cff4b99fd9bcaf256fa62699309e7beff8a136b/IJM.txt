@@ -1,0 +1,16 @@
+**ADD**:TryStatement (LINE:+646),1
+**DEL**:TryStatement (LINE:-647),1
+**MOV**:Block (LINE:-647) => Block (LINE:+646),1
+**ADD**:Block (LINE:+648),0
+**DEL**:Block (LINE:-649),1
+**MOV**:ExpressionStatement (LINE:-650) => ExpressionStatement (LINE:+649),1
+**ADD**:ExpressionStatement (LINE:+650),1
+**DEL**:ExpressionStatement (LINE:-651),0
+**MOV**:IfStatement (LINE:-652) => IfStatement (LINE:+656),1
+**ADD**:MethodDeclaration (LINE:+654),1
+**ADD**:Block (LINE:+654),1
+**ADD**:ExpressionStatement (LINE:+655),1
+**ADD**:IfStatement (LINE:+1257),1
+**ADD**:Block (LINE:+1257),1
+**ADD**:BreakStatement (LINE:+1258),1
+**ADD**:ExpressionStatement (LINE:+1681),1

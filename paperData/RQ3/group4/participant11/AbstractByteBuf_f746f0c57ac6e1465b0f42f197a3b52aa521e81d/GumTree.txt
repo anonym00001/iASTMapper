@@ -1,6 +1,0 @@
-**MOV**:ExpressionStatement (LINE:-104) => ExpressionStatement (LINE:+1155),1
-**ADD**:ExpressionStatement (LINE:+104),1
-**MOV**:ExpressionStatement (LINE:-105) => ExpressionStatement (LINE:+1156),1
-**ADD**:MethodDeclaration (LINE:+1154),1
-**ADD**:Block (LINE:+1154),1
-**UPD**:MethodDeclaration (LINE:-1155) => MethodDeclaration (LINE:+1159),1

@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-search/commit/7a2f9fed7d4303e4ef4600adb4d70e9b46d507a7)
-Path : hibernate-search/hibernate-search/src/test/java/org/hibernate/search/test/configuration/ResourceNotFoundMessageTest.java

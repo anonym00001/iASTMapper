@@ -1,0 +1,4 @@
+**ADD**:SwitchCase (LINE:+2521),1
+**ADD**:ExpressionStatement (LINE:+2522),1
+**ADD**:BreakStatement (LINE:+2523),1
+**ADD**:SwitchCase (LINE:+2571),1

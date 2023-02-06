@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-search/commit/02cf12d3cef527d0fb9bded7e53d75e4e64d33f0)
-Path : hibernate-search/backend/elasticsearch/src/main/java/org/hibernate/search/backend/elasticsearch/search/dsl/impl/SearchTargetContext.java

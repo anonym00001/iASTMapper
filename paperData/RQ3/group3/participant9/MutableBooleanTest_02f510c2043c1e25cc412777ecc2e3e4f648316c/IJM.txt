@@ -1,6 +1,0 @@
-**DEL**:TryStatement (LINE:-116),1
-**DEL**:Block (LINE:-116),1
-**DEL**:ExpressionStatement (LINE:-117),1
-**DEL**:ExpressionStatement (LINE:-118),1
-**DEL**:CatchClause (LINE:-119),1
-**DEL**:Block (LINE:-119),1

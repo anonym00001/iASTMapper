@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/107444ef61139b820dd81b72ddc6cc7d9b29de2b)
-Path : hibernate-orm/hibernate-core/src/main/java/org/hibernate/metamodel/internal/source/hbm/SingularIdentifierAttributeSourceImpl.java

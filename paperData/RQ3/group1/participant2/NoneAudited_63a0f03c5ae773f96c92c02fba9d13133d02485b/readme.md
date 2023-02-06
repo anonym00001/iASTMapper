@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/63a0f03c5ae773f96c92c02fba9d13133d02485b)
-Path : hibernate-orm/hibernate-envers/src/test/java/org/hibernate/envers/test/integration/basic/NoneAudited.java

@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/70221d8ac2172da992982f564195b8d3aef7d57b)
-Path : hibernate-orm/hibernate-core/src/test/java/org/hibernate/test/annotations/entity/NewCustomEntityMappingAnnotationsTest.java

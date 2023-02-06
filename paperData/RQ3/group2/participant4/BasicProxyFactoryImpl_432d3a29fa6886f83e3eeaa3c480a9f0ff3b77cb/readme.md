@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/432d3a29fa6886f83e3eeaa3c480a9f0ff3b77cb)
-Path : hibernate-orm/hibernate-core/src/main/java/org/hibernate/bytecode/internal/bytebuddy/BasicProxyFactoryImpl.java

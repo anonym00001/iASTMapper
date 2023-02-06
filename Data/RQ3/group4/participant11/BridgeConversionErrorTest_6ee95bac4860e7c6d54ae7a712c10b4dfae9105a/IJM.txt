@@ -1,0 +1,10 @@
+**UPD**:ImportDeclaration (LINE:-46) => ImportDeclaration (LINE:+47),1
+**ADD**:ImportDeclaration (LINE:+49),1
+**ADD**:ImportDeclaration (LINE:+51),1
+**UPD**:TypeDeclaration (LINE:-52) => TypeDeclaration (LINE:+58),0
+**ADD**:ImportDeclaration (LINE:+52),1
+**ADD**:ImportDeclaration (LINE:+53),1
+**UPD**:MethodDeclaration (LINE:-55) => MethodDeclaration (LINE:+61),1
+**UPD**:MethodDeclaration (LINE:-74) => MethodDeclaration (LINE:+81),1
+**UPD**:MethodDeclaration (LINE:-93) => MethodDeclaration (LINE:+101),1
+**UPD**:MethodDeclaration (LINE:-114) => MethodDeclaration (LINE:+123),1

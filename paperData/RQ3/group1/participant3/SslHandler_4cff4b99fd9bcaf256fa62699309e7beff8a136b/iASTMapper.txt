@@ -1,9 +1,0 @@
-**ADD**:ExpressionStatement (LINE:+650),1
-**MOV**:ExpressionStatement (LINE:-651) => ExpressionStatement (LINE:+655),1
-**MOV**:IfStatement (LINE:-652) => IfStatement (LINE:+656),1
-**ADD**:MethodDeclaration (LINE:+654),1
-**ADD**:Block (LINE:+654),1
-**ADD**:IfStatement (LINE:+1257),1
-**ADD**:Block (LINE:+1257),1
-**ADD**:BreakStatement (LINE:+1258),1
-**ADD**:ExpressionStatement (LINE:+1681),1

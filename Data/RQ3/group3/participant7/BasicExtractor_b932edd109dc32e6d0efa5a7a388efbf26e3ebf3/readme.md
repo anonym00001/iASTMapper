@@ -1,0 +1,2 @@
+[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/b932edd109dc32e6d0efa5a7a388efbf26e3ebf3)
+Path : hibernate-orm/hibernate-core/src/main/java/org/hibernate/type/descriptor/sql/BasicExtractor.java

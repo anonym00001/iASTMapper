@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-search/commit/5928378a97dba3fd464ef0f2d4cd68431162d68e)
-Path : hibernate-search/orm/src/test/java/org/hibernate/search/test/query/dsl/embedded/ContainerEntity.java

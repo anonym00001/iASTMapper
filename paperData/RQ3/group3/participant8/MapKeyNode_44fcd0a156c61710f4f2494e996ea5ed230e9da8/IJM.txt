@@ -1,5 +1,0 @@
-**UPD**:MethodDeclaration (LINE:-32) => MethodDeclaration (LINE:+35),1
-**UPD**:MethodDeclaration (LINE:-36) => MethodDeclaration (LINE:+45),1
-**MOV**:Block (LINE:-36) => Block (LINE:+41),0
-**UPD**:MethodDeclaration (LINE:-40) => MethodDeclaration (LINE:+40),1
-**MOV**:Block (LINE:-40) => Block (LINE:+46),0

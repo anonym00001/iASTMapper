@@ -1,5 +1,0 @@
-**ADD**:ImportDeclaration (LINE:+9),1
-**ADD**:ImportDeclaration (LINE:+10),1
-**UPD**:TypeDeclaration (LINE:-16) => TypeDeclaration (LINE:+18),1
-**UPD**:MethodDeclaration (LINE:-47) => MethodDeclaration (LINE:+49),1
-**UPD**:ExpressionStatement (LINE:-49) => ExpressionStatement (LINE:+51),1

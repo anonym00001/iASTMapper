@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/spring-projects/spring-framework/commit/983e2ce64f352b34a7a9e7a0828ad07896c2cd05)
-Path : spring-framework/org.springframework.beans/src/main/java/org/springframework/beans/factory/xml/BeanDefinitionParserDelegate.java

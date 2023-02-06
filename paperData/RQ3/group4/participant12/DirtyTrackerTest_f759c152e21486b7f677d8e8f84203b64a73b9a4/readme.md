@@ -1,2 +1,0 @@
-[COMMIT URL](https://github.com/hibernate/hibernate-orm/commit/f759c152e21486b7f677d8e8f84203b64a73b9a4)
-Path : hibernate-orm/hibernate-core/src/test/java/org/hibernate/test/bytecode/enhancement/tracker/DirtyTrackerTest.java

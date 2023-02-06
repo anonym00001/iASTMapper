@@ -1,5 +1,0 @@
-**UPD**:VariableDeclarationStatement (LINE:-39) => VariableDeclarationStatement (LINE:+40),0
-**ADD**:VariableDeclarationStatement (LINE:+39),0
-**UPD**:VariableDeclarationStatement (LINE:-42) => VariableDeclarationStatement (LINE:+43),1
-**UPD**:VariableDeclarationStatement (LINE:-43) => VariableDeclarationStatement (LINE:+44),1
-**UPD**:VariableDeclarationStatement (LINE:-44) => VariableDeclarationStatement (LINE:+45),1

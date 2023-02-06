@@ -1,9 +1,0 @@
-**ADD**:ImportDeclaration (LINE:+12),1
-**UPD**:ImportDeclaration (LINE:-29) => ImportDeclaration (LINE:+11),1
-**UPD**:ReturnStatement (LINE:-152) => ReturnStatement (LINE:+153),1
-**ADD**:MethodDeclaration (LINE:+325),1
-**ADD**:Block (LINE:+327),1
-**ADD**:ReturnStatement (LINE:+328),1
-**ADD**:MethodDeclaration (LINE:+335),1
-**ADD**:Block (LINE:+336),1
-**ADD**:ReturnStatement (LINE:+337),1
