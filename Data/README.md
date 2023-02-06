@@ -52,8 +52,8 @@ Each line in the file is formatted as follows:
 
 - file path + commit url | the runtime(ms) of the iASTMapper | the runtime(ms) of the GumTree | the runtime(ms) of the MTDiff | the runtime(ms) of the IJM
 
-For example, a line:  `
+For example, a line: 
 
-activemq\activecluster\src\java\org\activecluster\ClusterFactory.java https://github.com/apache/activemq/commit/84077a3663e350e39b4b8a48784e6ed706cc961d | 5 | 11 | 25 | 6
+`activemq\activecluster\src\java\org\activecluster\ClusterFactory.java https://github.com/apache/activemq/commit/84077a3663e350e39b4b8a48784e6ed706cc961d | 5 | 11 | 25 | 6`
 
 It means, the file revision is the file with file path is `activemq\activecluster\src\java\org\activecluster\ClusterFactory.java` and commit url is `https://github.com/apache/activemq/commit/84077a3663e350e39b4b8a48784e6ed706cc961d` and the runtime of the iASTMapper, GumTre, MTDiff and IJM are 5ms, 11ms, 25ms and 6ms, respectively.
