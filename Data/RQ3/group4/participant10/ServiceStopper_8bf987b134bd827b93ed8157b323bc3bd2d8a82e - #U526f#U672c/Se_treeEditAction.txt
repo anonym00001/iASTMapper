@@ -1,0 +1,13 @@
+12
+INSERT	[type: ImportDeclaration] (line: +24)	DST: import org.slf4j.LoggerFactory;
+UPDATE	[type: QualifiedName] (line: -23) => [type: QualifiedName] (line: +23)	SRC: org.apache.commons.logging.Log => DST: org.slf4j.Logger
+INSERT	[type: QualifiedName] (line: +24)	DST: org.slf4j.LoggerFactory
+UPDATE	[type: SimpleName] (line: -95) => [type: SimpleName] (line: +95)	SRC: Log => DST: Logger
+INSERT	[type: METHOD_INVOCATION_RECEIVER] (line: +95)	DST: LoggerFactory
+INSERT	[type: SimpleName] (line: +95)	DST: getLogger
+INSERT	[type: SimpleName] (line: +95)	DST: LoggerFactory
+DELETE	[type: QualifiedName] (line: -24)	SRC: org.apache.commons.logging.LogFactory
+DELETE	[type: ImportDeclaration] (line: -24)	SRC: import org.apache.commons.logging.LogFactory;
+DELETE	[type: SimpleName] (line: -95)	SRC: LogFactory
+DELETE	[type: METHOD_INVOCATION_RECEIVER] (line: -95)	SRC: LogFactory
+DELETE	[type: SimpleName] (line: -95)	SRC: getLog

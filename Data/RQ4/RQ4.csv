@@ -1,0 +1,12 @@
+Project 	iASTMapper 	GT 	MTD 	IJM
+ActiveMQ 	48.12	12.8	187.85	41.13
+Commons-IO 	60.19	17.55	431.55	34.33
+Commons-Lang 	151.63	35.89	1112.96	58.91
+Commons-Math 	159.49	18.6	445.78	48.13
+Hibernate-ORM 	49.7	12.73	207.63	53.14
+Hibernate-Search 	72.82	7.42	180.23	33.74
+Junit4 	16.14	6.28	49.59	24.49
+Netty 	341.75	14.43	285.19	40.66
+Spring-Framework 	36.91	10.91	186.33	38.66
+Spring-Roo 	66.89	14.85	273.73	76.9
+Overall 	120.42	13.65	271.15	47.01

@@ -1,7 +1,7 @@
 package cs.model.algorithm.utils;
 
-import at.aau.softwaredynamics.gen.OptimizedJdtTreeGenerator;
-import at.aau.softwaredynamics.matchers.JavaMatchers;
+import at.algorithm.softwaredynamics.gen.OptimizedJdtTreeGenerator;
+import at.algorithm.softwaredynamics.matchers.JavaMatchers;
 import com.github.gumtreediff.actions.ChawatheScriptGenerator;
 import com.github.gumtreediff.actions.EditScriptGenerator;
 import com.github.gumtreediff.actions.model.Action;

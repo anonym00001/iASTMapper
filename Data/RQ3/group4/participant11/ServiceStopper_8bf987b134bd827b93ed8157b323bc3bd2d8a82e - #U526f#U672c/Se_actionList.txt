@@ -1,0 +1,43 @@
+4
+==================================================
+**UPD**:ImportDeclaration (LINE:-23) => ImportDeclaration (LINE:+23)
+
+TOKEN MAPPING:
+*******: import                        (LINE:-23, INDEX:0) => import                        (LINE:+23, INDEX:0)
+*******: org                           (LINE:-23, INDEX:1) => org                           (LINE:+23, INDEX:1)
+**DEL**: apache                        (LINE:-23, INDEX:2)
+**DEL**: commons                       (LINE:-23, INDEX:3)
+**DEL**: logging                       (LINE:-23, INDEX:4)
+**UPD**: Log                           (LINE:-23, INDEX:5) => Logger                        (LINE:+23, INDEX:3)
+**ADD**: slf4j                         (LINE:+23, INDEX:2)
+==================================================
+**DEL**:ImportDeclaration (LINE:-24)
+
+TOKEN MAPPING:
+**DEL**: import                        (LINE:-24, INDEX:0)
+**DEL**: org                           (LINE:-24, INDEX:1)
+**DEL**: apache                        (LINE:-24, INDEX:2)
+**DEL**: commons                       (LINE:-24, INDEX:3)
+**DEL**: logging                       (LINE:-24, INDEX:4)
+**DEL**: LogFactory                    (LINE:-24, INDEX:5)
+==================================================
+**ADD**:ImportDeclaration (LINE:+24)
+
+TOKEN MAPPING:
+**ADD**: import                        (LINE:+24, INDEX:0)
+**ADD**: org                           (LINE:+24, INDEX:1)
+**ADD**: slf4j                         (LINE:+24, INDEX:2)
+**ADD**: LoggerFactory                 (LINE:+24, INDEX:3)
+==================================================
+**UPD**:VariableDeclarationStatement (LINE:-95) => VariableDeclarationStatement (LINE:+95)
+
+TOKEN MAPPING:
+**UPD**: Log                           (LINE:-95, INDEX:0) => Logger                        (LINE:+95, INDEX:0)
+*******: log                           (LINE:-95, INDEX:1) => log                           (LINE:+95, INDEX:1)
+*******: =                             (LINE:-95, INDEX:2) => =                             (LINE:+95, INDEX:2)
+**DEL**: LogFactory                    (LINE:-95, INDEX:3)
+**DEL**: getLog                        (LINE:-95, INDEX:4)
+*******: service                       (LINE:-95, INDEX:5) => service                       (LINE:+95, INDEX:5)
+*******: getClass                      (LINE:-95, INDEX:6) => getClass                      (LINE:+95, INDEX:6)
+**ADD**: LoggerFactory                 (LINE:+95, INDEX:3)
+**ADD**: getLogger                     (LINE:+95, INDEX:4)
